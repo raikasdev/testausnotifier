@@ -5,5 +5,8 @@
   "podcast": [
     "https://hakkerit.libsyn.com/rss",
     "https://feeds.simplecast.com/fJGOlywC"
+  ],
+  "ping": [
+    "<@250662753541423115>"
   ]
 }
