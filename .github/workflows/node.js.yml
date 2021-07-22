@@ -4,7 +4,7 @@ name: Node.js CI
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '5 * * * *'
+    - cron:  '*/5 * * * *'
 env:
   WEBHOOK_ID: ${{ secrets.WEBHOOK_ID }}
   WEBHOOK_SECRET: ${{ secrets.WEBHOOK_SECRET }}
