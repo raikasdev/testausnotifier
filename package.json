@@ -1,0 +1,14 @@
+{
+  "name": "yt-podcastreminder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "node-html-markdown": "^1.0.1",
+    "rss-parser": "^3.12.0",
+    "youtube-channel-videos": "^1.0.0",
+    "yt-channel-info": "^2.2.0",
+    "ytdl-getinfo": "^1.1.0"
+  }
+}
