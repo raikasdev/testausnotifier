@@ -59,7 +59,7 @@ const getNewPodcastEpisodes = async () => {
 const run = async () => {
   const newVideos = await getNewVideos();
   const newPodcastEpisodes = await getNewPodcastEpisodes();
-  save(JSON.stringify(data));
+  save(JSON.stringify(data, null, 2));
   await Promise.all(newPodcastEpisodes.map(async (podcast) => {
     const embed = new Discord.MessageEmbed()
       .setTitle(`${podcast.title}: ${podcast.episode.title}`)
