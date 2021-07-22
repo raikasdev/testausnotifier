@@ -67,7 +67,7 @@ const run = async () => {
       .setThumbnail(podcast.image)
       .setDescription(`${NodeHtmlMarkdown.translate(podcast.episode.content)}`)
       .setColor(0xff00ff)
-    await webhook.send({
+    await webhook.send(config.ping.join(" "), {
       username: 'TestausNotifier',
       avatarURL: 'https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/twitter/53/bell_1f514.png',
       embeds: [embed],
@@ -81,7 +81,7 @@ const run = async () => {
       .setImage(video.videoThumbnails[video.videoThumbnails.length - 1].url)
       .setColor(0xff0000)
       .setFooter(`Julkaistu ${video.publishedText}`);
-    await webhook.send({
+    await webhook.send(config.ping.join(" "), {
       username: 'TestausNotifier',
       avatarURL: 'https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/twitter/53/bell_1f514.png',
       embeds: [embed],
