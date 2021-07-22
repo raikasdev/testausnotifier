@@ -28,7 +28,6 @@ jobs:
         cache: 'npm'
     - run: npm install
     - run: node index.js
-    - run: npm test
     - name: Commit files
       run: |
           git add .
