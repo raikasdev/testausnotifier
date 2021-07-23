@@ -25,8 +25,8 @@ const getNewVideos = async () => {
       const oldVideo = data.youtube[channel] || {
         videoId: ''
       };
+      data.youtube[channel] = videos[0];
       if (oldVideo.videoId !== videos[0].videoId) {
-        data.youtube[channel] = videos[0];
         resolve(videos[0]);
       }
       resolve(null);
@@ -41,8 +41,8 @@ const getNewPodcastEpisodes = async () => {
     try {
       const feed = await rssParser.parseURL(channel);
       const oldEpisode = data.podcast[channel] || {};
+      data.podcast[channel] = feed.items[0];
       if (oldEpisode.title !== feed.items[0].title) {
-        data.podcast[channel] = feed.items[0];
         resolve({
           title: feed.title,
           image: feed.image.url,
