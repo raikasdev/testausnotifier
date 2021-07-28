@@ -28,8 +28,8 @@
           "height": 188
         }
       ],
-      "viewCountText": "132,553 views",
-      "viewCount": 132553,
+      "viewCountText": "132,569 views",
+      "viewCount": 132569,
       "publishedText": "1 week ago",
       "durationText": "7:47",
       "lengthSeconds": 467,
@@ -39,37 +39,37 @@
     },
     "Fireship": {
       "type": "video",
-      "title": "Quick overview of CSS",
-      "videoId": "OAuZGexox5s",
+      "title": "Terraform in 100 Seconds",
+      "videoId": "tomUWcQ0P3k",
       "author": "Fireship",
       "authorId": "Fireship",
       "videoThumbnails": [
         {
-          "url": "https://i.ytimg.com/vi/OAuZGexox5s/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCQIXjAhPwQwASlMtyGdq0BPcCXUQ",
+          "url": "https://i.ytimg.com/vi/tomUWcQ0P3k/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBzMXCnUTzljFSvp5EyLAPs0dhPzQ",
           "width": 168,
           "height": 94
         },
         {
-          "url": "https://i.ytimg.com/vi/OAuZGexox5s/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCfRkEigw1kY8cXkLddkTV4RLUIfQ",
+          "url": "https://i.ytimg.com/vi/tomUWcQ0P3k/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAaJoIpddGySIUVNfGnz3xJvWGDOQ",
           "width": 196,
           "height": 110
         },
         {
-          "url": "https://i.ytimg.com/vi/OAuZGexox5s/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAcm1GAkVRi_WKDAhebO4C7l6O3Bg",
+          "url": "https://i.ytimg.com/vi/tomUWcQ0P3k/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAEs2LlYZSFLak32X0TXLe9ez-0SA",
           "width": 246,
           "height": 138
         },
         {
-          "url": "https://i.ytimg.com/vi/OAuZGexox5s/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBi-ogAjQw3P9QdCmjl1BaQPM7Amg",
+          "url": "https://i.ytimg.com/vi/tomUWcQ0P3k/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB1OkB53hAsLSU_KoK8n8zVS-0Kbw",
           "width": 336,
           "height": 188
         }
       ],
-      "viewCountText": "33,624 views",
-      "viewCount": 33624,
-      "publishedText": "1 day ago",
-      "durationText": "0:33",
-      "lengthSeconds": 33,
+      "viewCountText": "5,690 views",
+      "viewCount": 5690,
+      "publishedText": "24 minutes ago",
+      "durationText": "2:18",
+      "lengthSeconds": 138,
       "liveNow": false,
       "premiere": false,
       "premium": false
