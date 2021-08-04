@@ -28,8 +28,8 @@
           "height": 188
         }
       ],
-      "viewCountText": "19,840 views",
-      "viewCount": 19840,
+      "viewCountText": "22,720 views",
+      "viewCount": 22720,
       "publishedText": "2 hours ago",
       "durationText": "6:24",
       "lengthSeconds": 384,
@@ -39,37 +39,37 @@
     },
     "Fireship": {
       "type": "video",
-      "title": "NestJS in 100 Seconds",
-      "videoId": "0M8AYU_hPas",
+      "title": "The Decline of Firebase (bundle sizes) // New JavaScript SDK First Look",
+      "videoId": "zd6ffqoK_EU",
       "author": "Fireship",
       "authorId": "Fireship",
       "videoThumbnails": [
         {
-          "url": "https://i.ytimg.com/vi/0M8AYU_hPas/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBVkOdj2r_xZY_2Nq-Q0gSsQP0tng",
+          "url": "https://i.ytimg.com/vi/zd6ffqoK_EU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBf91rJOoWsPGEy6qhOTMF6eW3WPg",
           "width": 168,
           "height": 94
         },
         {
-          "url": "https://i.ytimg.com/vi/0M8AYU_hPas/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD6stlguyPriqk5GimcCUkNmXJ8pw",
+          "url": "https://i.ytimg.com/vi/zd6ffqoK_EU/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAjM-PF9f-5GA4A8AKv39OeL8Yk-w",
           "width": 196,
           "height": 110
         },
         {
-          "url": "https://i.ytimg.com/vi/0M8AYU_hPas/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA8Zwjk2I9PzDCGcM2vixN9shjFbw",
+          "url": "https://i.ytimg.com/vi/zd6ffqoK_EU/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB8fvl__042Runqlrq7eoYdkRhnNw",
           "width": 246,
           "height": 138
         },
         {
-          "url": "https://i.ytimg.com/vi/0M8AYU_hPas/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBTiSCIY9lZ7i2xBLnTMKzTIcY_uw",
+          "url": "https://i.ytimg.com/vi/zd6ffqoK_EU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBHzreBbiVuKOcNeScgvOMwM5TjvQ",
           "width": 336,
           "height": 188
         }
       ],
-      "viewCountText": "99,731 views",
-      "viewCount": 99731,
-      "publishedText": "5 days ago",
-      "durationText": "2:21",
-      "lengthSeconds": 141,
+      "viewCountText": "1,992 views",
+      "viewCount": 1992,
+      "publishedText": "12 minutes ago",
+      "durationText": "5:15",
+      "lengthSeconds": 315,
       "liveNow": false,
       "premiere": false,
       "premium": false
