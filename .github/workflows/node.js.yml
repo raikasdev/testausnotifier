@@ -33,10 +33,12 @@ jobs:
           git add .
           git config --local user.email "raikas@testausserveri.fi"
           git config --local user.name "testausserveri"
-          git commit -m "Update data" -a
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
-          force: true
+    - name: Commit
+      id: can_commit
+      run: |
+          commit_message=$(git commit -m "Update new data" -a | tr -d '\n' || true)
+          echo "::set-output name=commit_message::$commit_message"
+    - name: Push or leave
+      id: nothing_committed
+      if: false == contains(steps.can_commit.outputs.commit_message, 'nothing to commit')
+      run: git push origin master
