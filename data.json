@@ -39,37 +39,37 @@
     },
     "Fireship": {
       "type": "video",
-      "title": "This weird skill helps you learn to code faster",
-      "videoId": "BQBMbwfC6TY",
+      "title": "I built the same app 10 times // Which JS Framework is best?",
+      "videoId": "cuHDQhDhvPE",
       "author": "Fireship",
       "authorId": "Fireship",
       "videoThumbnails": [
         {
-          "url": "https://i.ytimg.com/vi/BQBMbwfC6TY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDboR-EC4hCBDD8C6VvvA6oUso1tg",
+          "url": "https://i.ytimg.com/vi/cuHDQhDhvPE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA0eIYdgYL3pMHiMIoSY7Cgk16ymQ",
           "width": 168,
           "height": 94
         },
         {
-          "url": "https://i.ytimg.com/vi/BQBMbwfC6TY/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAqu4GNPVydn2mZrc0Uf971vzPwRw",
+          "url": "https://i.ytimg.com/vi/cuHDQhDhvPE/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB-ri_JrLDJ-NdJ6FIY7JyGkiijDw",
           "width": 196,
           "height": 110
         },
         {
-          "url": "https://i.ytimg.com/vi/BQBMbwfC6TY/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAsDrTTvqKehl5pFzcR5lyiHIBa-w",
+          "url": "https://i.ytimg.com/vi/cuHDQhDhvPE/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDmlz3-N4xxm5GalMl3UxXX9no7lQ",
           "width": 246,
           "height": 138
         },
         {
-          "url": "https://i.ytimg.com/vi/BQBMbwfC6TY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDG2Z_soeQ14_Y6VpIGc82XnhqX9g",
+          "url": "https://i.ytimg.com/vi/cuHDQhDhvPE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBPIR9PhrEU5xhAhdzBDyzsXedFbA",
           "width": 336,
           "height": 188
         }
       ],
-      "viewCountText": "75,712 views",
-      "viewCount": 75712,
-      "publishedText": "4 days ago",
-      "durationText": "0:40",
-      "lengthSeconds": 40,
+      "viewCountText": "2,592 views",
+      "viewCount": 2592,
+      "publishedText": "9 minutes ago",
+      "durationText": "21:58",
+      "lengthSeconds": 1318,
       "liveNow": false,
       "premiere": false,
       "premium": false
