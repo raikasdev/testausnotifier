@@ -39,37 +39,37 @@
     },
     "Fireship": {
       "type": "video",
-      "title": "I built a decentralized chat dapp // GUN web3 Tutorial",
-      "videoId": "J5x3OMXjgMc",
+      "title": "PostCSS in 100 Seconds",
+      "videoId": "WhCXiEwdU1A",
       "author": "Fireship",
       "authorId": "Fireship",
       "videoThumbnails": [
         {
-          "url": "https://i.ytimg.com/vi/J5x3OMXjgMc/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDQRkRgUYc1VuSjGW7g-BewDb-TaQ",
+          "url": "https://i.ytimg.com/vi/WhCXiEwdU1A/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBUqAkr3AgZNvrnninzy_PUqUGKIg",
           "width": 168,
           "height": 94
         },
         {
-          "url": "https://i.ytimg.com/vi/J5x3OMXjgMc/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBCwOxxnfLeLUbJulevz5Y8Clpkig",
+          "url": "https://i.ytimg.com/vi/WhCXiEwdU1A/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBE8gl_FA73Kyj0ePfXLrlC8W_f0Q",
           "width": 196,
           "height": 110
         },
         {
-          "url": "https://i.ytimg.com/vi/J5x3OMXjgMc/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCQp7ahDcorqG1z4FsbhFgehesT3w",
+          "url": "https://i.ytimg.com/vi/WhCXiEwdU1A/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBX7kXaFSs1iGHkymxsdCqQrW93GA",
           "width": 246,
           "height": 138
         },
         {
-          "url": "https://i.ytimg.com/vi/J5x3OMXjgMc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD2OUPgysxkB-K4XeZtqwRlDyA2bA",
+          "url": "https://i.ytimg.com/vi/WhCXiEwdU1A/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDGjUqZk4sHozcPNpClWmcOAm0iIQ",
           "width": 336,
           "height": 188
         }
       ],
-      "viewCountText": "4,568 views",
-      "viewCount": 4568,
-      "publishedText": "23 minutes ago",
-      "durationText": "10:47",
-      "lengthSeconds": 647,
+      "viewCountText": "3,601 views",
+      "viewCount": 3601,
+      "publishedText": "16 minutes ago",
+      "durationText": "2:13",
+      "lengthSeconds": 133,
       "liveNow": false,
       "premiere": false,
       "premium": false
