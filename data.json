@@ -39,37 +39,37 @@
     },
     "Fireship": {
       "type": "video",
-      "title": "React Native vs Flutter - I built the same chat app with both",
-      "videoId": "X8ipUgXH6jw",
+      "title": "Go in 100 Seconds",
+      "videoId": "446E-r0rXHI",
       "author": "Fireship",
       "authorId": "Fireship",
       "videoThumbnails": [
         {
-          "url": "https://i.ytimg.com/vi/X8ipUgXH6jw/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBhr3O9xZc0OSzliomhPoib4BrE4g",
+          "url": "https://i.ytimg.com/vi/446E-r0rXHI/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDh_49HvHMUeBdGe-QML4KRbrUkKw",
           "width": 168,
           "height": 94
         },
         {
-          "url": "https://i.ytimg.com/vi/X8ipUgXH6jw/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLARdoFTtleK1kAnYjpI9OrnI5m-_A",
+          "url": "https://i.ytimg.com/vi/446E-r0rXHI/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA2XzUnJWEYYOr9LTS7032foORSHA",
           "width": 196,
           "height": 110
         },
         {
-          "url": "https://i.ytimg.com/vi/X8ipUgXH6jw/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA2XdNHv2j5mD4F7uz8CAjX9VMalw",
+          "url": "https://i.ytimg.com/vi/446E-r0rXHI/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAoAWgTYX6HXIAbhVGtzJ0oH9DZXQ",
           "width": 246,
           "height": 138
         },
         {
-          "url": "https://i.ytimg.com/vi/X8ipUgXH6jw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAElmcmelAZ2pal5DrN3vS1lGn1Og",
+          "url": "https://i.ytimg.com/vi/446E-r0rXHI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBpDV0XHDiHbjK2r8pTe9xlC-06SA",
           "width": 336,
           "height": 188
         }
       ],
-      "viewCountText": "5,815 views",
-      "viewCount": 5815,
-      "publishedText": "28 minutes ago",
-      "durationText": "10:12",
-      "lengthSeconds": 612,
+      "viewCountText": "5,131 views",
+      "viewCount": 5131,
+      "publishedText": "17 minutes ago",
+      "durationText": "2:30",
+      "lengthSeconds": 150,
       "liveNow": false,
       "premiere": false,
       "premium": false
