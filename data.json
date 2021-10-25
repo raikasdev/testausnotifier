@@ -39,37 +39,37 @@
     },
     "Fireship": {
       "type": "video",
-      "title": "PHP in 100 Seconds",
-      "videoId": "a7_WFUlFS94",
+      "title": "Python in 100 Seconds",
+      "videoId": "x7X9w_GIm1s",
       "author": "Fireship",
       "authorId": "Fireship",
       "videoThumbnails": [
         {
-          "url": "https://i.ytimg.com/vi/a7_WFUlFS94/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBuSFfFZFIqzbmACvr1lgfUpCqg5Q",
+          "url": "https://i.ytimg.com/vi/x7X9w_GIm1s/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCvO-BUkmVpYbRIK6vFWdwFAAV8mg",
           "width": 168,
           "height": 94
         },
         {
-          "url": "https://i.ytimg.com/vi/a7_WFUlFS94/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCavmvZkGLUtD-3qCvI0HdS6n1lfg",
+          "url": "https://i.ytimg.com/vi/x7X9w_GIm1s/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC6tJQiU7XRe5ucPuERFim3ZTjs-Q",
           "width": 196,
           "height": 110
         },
         {
-          "url": "https://i.ytimg.com/vi/a7_WFUlFS94/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDKCL_1g5JmEJVGtIIqIC1KQX752Q",
+          "url": "https://i.ytimg.com/vi/x7X9w_GIm1s/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDyqOwHcsH0JAlv6CwgMvfL4TE0LQ",
           "width": 246,
           "height": 138
         },
         {
-          "url": "https://i.ytimg.com/vi/a7_WFUlFS94/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAWfD1hXgca8v4uX8WTvlBqohQkhQ",
+          "url": "https://i.ytimg.com/vi/x7X9w_GIm1s/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA9PSkfVglaxmFdqimCulfW_W1OGw",
           "width": 336,
           "height": 188
         }
       ],
-      "viewCountText": "8,824 views",
-      "viewCount": 8824,
-      "publishedText": "26 minutes ago",
-      "durationText": "2:21",
-      "lengthSeconds": 141,
+      "viewCountText": "791 views",
+      "viewCount": 791,
+      "publishedText": "4 minutes ago",
+      "durationText": "2:24",
+      "lengthSeconds": 144,
       "liveNow": false,
       "premiere": false,
       "premium": false
