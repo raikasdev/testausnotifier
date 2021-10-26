@@ -39,37 +39,37 @@
     },
     "Fireship": {
       "type": "video",
-      "title": "Python in 100 Seconds",
-      "videoId": "x7X9w_GIm1s",
+      "title": "WTF is an Abstract Syntax Tree?",
+      "videoId": "mi6DoxNEN6w",
       "author": "Fireship",
       "authorId": "Fireship",
       "videoThumbnails": [
         {
-          "url": "https://i.ytimg.com/vi/x7X9w_GIm1s/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCvO-BUkmVpYbRIK6vFWdwFAAV8mg",
+          "url": "https://i.ytimg.com/vi/mi6DoxNEN6w/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCx2UAyOJNj8rd4LZMv-BcWZta5Ig",
           "width": 168,
           "height": 94
         },
         {
-          "url": "https://i.ytimg.com/vi/x7X9w_GIm1s/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC6tJQiU7XRe5ucPuERFim3ZTjs-Q",
+          "url": "https://i.ytimg.com/vi/mi6DoxNEN6w/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDfY3NQUiMWi30NYVnw8dei_-iaFg",
           "width": 196,
           "height": 110
         },
         {
-          "url": "https://i.ytimg.com/vi/x7X9w_GIm1s/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDyqOwHcsH0JAlv6CwgMvfL4TE0LQ",
+          "url": "https://i.ytimg.com/vi/mi6DoxNEN6w/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCuIs2Bn6bonFUsCD_qJWJAt18bXg",
           "width": 246,
           "height": 138
         },
         {
-          "url": "https://i.ytimg.com/vi/x7X9w_GIm1s/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA9PSkfVglaxmFdqimCulfW_W1OGw",
+          "url": "https://i.ytimg.com/vi/mi6DoxNEN6w/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDGVOifleQ_iGOLv3C7_Oetxce7bg",
           "width": 336,
           "height": 188
         }
       ],
-      "viewCountText": "791 views",
-      "viewCount": 791,
-      "publishedText": "4 minutes ago",
-      "durationText": "2:24",
-      "lengthSeconds": 144,
+      "viewCountText": "1,771 views",
+      "viewCount": 1771,
+      "publishedText": "10 minutes ago",
+      "durationText": "0:36",
+      "lengthSeconds": 36,
       "liveNow": false,
       "premiere": false,
       "premium": false
