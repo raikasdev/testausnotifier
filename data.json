@@ -39,37 +39,37 @@
     },
     "Fireship": {
       "type": "video",
-      "title": "Kotlin in 100 Seconds",
-      "videoId": "xT8oP0wy-A0",
+      "title": "Shopify built a JS Framework // Hydrogen First Look",
+      "videoId": "mAsM9c2sGjA",
       "author": "Fireship",
       "authorId": "Fireship",
       "videoThumbnails": [
         {
-          "url": "https://i.ytimg.com/vi/xT8oP0wy-A0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCMpJXW0CzXfPqnocIyYRjChzxHTg",
+          "url": "https://i.ytimg.com/vi/mAsM9c2sGjA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAMkZMJitRCNwxaMxMhInRkzOzUaQ",
           "width": 168,
           "height": 94
         },
         {
-          "url": "https://i.ytimg.com/vi/xT8oP0wy-A0/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLArRG87HrgfyaXy8cFIJvHeGnRqQA",
+          "url": "https://i.ytimg.com/vi/mAsM9c2sGjA/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCNtSrfhDp78DeOSls326cKUdSuBw",
           "width": 196,
           "height": 110
         },
         {
-          "url": "https://i.ytimg.com/vi/xT8oP0wy-A0/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAjhw5jgayGoUjULs8B4E8WL0_kQA",
+          "url": "https://i.ytimg.com/vi/mAsM9c2sGjA/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB13wQiYsO1jSv2UooMrBombT26cg",
           "width": 246,
           "height": 138
         },
         {
-          "url": "https://i.ytimg.com/vi/xT8oP0wy-A0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCgV6v8vYPIvLcUwZdaG8evNFyImA",
+          "url": "https://i.ytimg.com/vi/mAsM9c2sGjA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDAxqiatlXSxZBnaY00zVziYGEbKg",
           "width": 336,
           "height": 188
         }
       ],
-      "viewCountText": "6,729 views",
-      "viewCount": 6729,
-      "publishedText": "19 minutes ago",
-      "durationText": "2:22",
-      "lengthSeconds": 142,
+      "viewCountText": "9,303 views",
+      "viewCount": 9303,
+      "publishedText": "28 minutes ago",
+      "durationText": "5:08",
+      "lengthSeconds": 308,
       "liveNow": false,
       "premiere": false,
       "premium": false
