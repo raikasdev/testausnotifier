@@ -39,37 +39,37 @@
     },
     "Fireship": {
       "type": "video",
-      "title": "WTF is a Bézier Curve?",
-      "videoId": "BThr1pb77Fo",
+      "title": "Flutter Basic Training - 12 Minute Bootcamp",
+      "videoId": "1xipg02Wu8s",
       "author": "Fireship",
       "authorId": "Fireship",
       "videoThumbnails": [
         {
-          "url": "https://i.ytimg.com/vi/BThr1pb77Fo/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB-k43GRo-Dbqn-BQl5Z_prv21b_g",
+          "url": "https://i.ytimg.com/vi/1xipg02Wu8s/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA_Iw5YulRQEr9aQpAxqND7Bcru9w",
           "width": 168,
           "height": 94
         },
         {
-          "url": "https://i.ytimg.com/vi/BThr1pb77Fo/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC25Ut6_74S_XY8b_ZPrxWrbLDRUA",
+          "url": "https://i.ytimg.com/vi/1xipg02Wu8s/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBb_7kzFxJkRRyFLGjeu_XnRu1eoA",
           "width": 196,
           "height": 110
         },
         {
-          "url": "https://i.ytimg.com/vi/BThr1pb77Fo/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCf_8WCSANzWzEUwhweE_t6Ovt-DA",
+          "url": "https://i.ytimg.com/vi/1xipg02Wu8s/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAb9mMDkiDNO0LOWQwM6AA1975VZQ",
           "width": 246,
           "height": 138
         },
         {
-          "url": "https://i.ytimg.com/vi/BThr1pb77Fo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCMFDJNHQnc1h5gtI-v1R83FS97KQ",
+          "url": "https://i.ytimg.com/vi/1xipg02Wu8s/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCGeX1Fs5D30JBZegnSm8RMGosD3w",
           "width": 336,
           "height": 188
         }
       ],
-      "viewCountText": "4,740 views",
-      "viewCount": 4740,
-      "publishedText": "20 minutes ago",
-      "durationText": "0:41",
-      "lengthSeconds": 41,
+      "viewCountText": "403 views",
+      "viewCount": 403,
+      "publishedText": "3 minutes ago",
+      "durationText": "12:09",
+      "lengthSeconds": 729,
       "liveNow": false,
       "premiere": false,
       "premium": false
