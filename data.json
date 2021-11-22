@@ -39,37 +39,37 @@
     },
     "Fireship": {
       "type": "video",
-      "title": "Flutter Basic Training - 12 Minute Bootcamp",
-      "videoId": "1xipg02Wu8s",
+      "title": "Swift in 100 Seconds",
+      "videoId": "nAchMctX4YA",
       "author": "Fireship",
       "authorId": "Fireship",
       "videoThumbnails": [
         {
-          "url": "https://i.ytimg.com/vi/1xipg02Wu8s/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA_Iw5YulRQEr9aQpAxqND7Bcru9w",
+          "url": "https://i.ytimg.com/vi/nAchMctX4YA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAU0JHfMuS-PdhfKixrAz8UV30_aA",
           "width": 168,
           "height": 94
         },
         {
-          "url": "https://i.ytimg.com/vi/1xipg02Wu8s/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBb_7kzFxJkRRyFLGjeu_XnRu1eoA",
+          "url": "https://i.ytimg.com/vi/nAchMctX4YA/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA0DJbqqd7uJrF5JigA9VWoa-Bqlg",
           "width": 196,
           "height": 110
         },
         {
-          "url": "https://i.ytimg.com/vi/1xipg02Wu8s/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAb9mMDkiDNO0LOWQwM6AA1975VZQ",
+          "url": "https://i.ytimg.com/vi/nAchMctX4YA/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAJLyDJGt0yKzUgcBy5iYGVtDwiBg",
           "width": 246,
           "height": 138
         },
         {
-          "url": "https://i.ytimg.com/vi/1xipg02Wu8s/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCGeX1Fs5D30JBZegnSm8RMGosD3w",
+          "url": "https://i.ytimg.com/vi/nAchMctX4YA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCwi2bxgiJJvDenI1omIh2JEDTz7A",
           "width": 336,
           "height": 188
         }
       ],
-      "viewCountText": "403 views",
-      "viewCount": 403,
-      "publishedText": "3 minutes ago",
-      "durationText": "12:09",
-      "lengthSeconds": 729,
+      "viewCountText": "2,158 views",
+      "viewCount": 2158,
+      "publishedText": "9 minutes ago",
+      "durationText": "2:25",
+      "lengthSeconds": 145,
       "liveNow": false,
       "premiere": false,
       "premium": false
