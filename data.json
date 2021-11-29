@@ -39,37 +39,37 @@
     },
     "Fireship": {
       "type": "video",
-      "title": "VS Code in 100 Seconds",
-      "videoId": "KMxo3T_MTvY",
+      "title": "Haskell in 100 Seconds",
+      "videoId": "Qa8IfEeBJqk",
       "author": "Fireship",
       "authorId": "Fireship",
       "videoThumbnails": [
         {
-          "url": "https://i.ytimg.com/vi/KMxo3T_MTvY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDtysfR-2xGRJLJ61Kxl4i05eE9kA",
+          "url": "https://i.ytimg.com/vi/Qa8IfEeBJqk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAW56a6fGMeOnYoeZ7DtYSswVtHpQ",
           "width": 168,
           "height": 94
         },
         {
-          "url": "https://i.ytimg.com/vi/KMxo3T_MTvY/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAs_gpG6XHYCOjFpM7n_tEVyhZ9Vw",
+          "url": "https://i.ytimg.com/vi/Qa8IfEeBJqk/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBO_X-e0ALdTZKSV4bp3lY8Fs-OEQ",
           "width": 196,
           "height": 110
         },
         {
-          "url": "https://i.ytimg.com/vi/KMxo3T_MTvY/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAEQqnO3sMqR3ZDYrgfD79k-tgn7Q",
+          "url": "https://i.ytimg.com/vi/Qa8IfEeBJqk/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAusW6anoCCuzmXVrlb4FbLsCfIFg",
           "width": 246,
           "height": 138
         },
         {
-          "url": "https://i.ytimg.com/vi/KMxo3T_MTvY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCc-5Abmibxde-PswJlVFP9U92FCA",
+          "url": "https://i.ytimg.com/vi/Qa8IfEeBJqk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDqJ5EwX43Q_AfcQDD5LjdaHh14Qw",
           "width": 336,
           "height": 188
         }
       ],
-      "viewCountText": "564 views",
-      "viewCount": 564,
-      "publishedText": "3 minutes ago",
-      "durationText": "2:34",
-      "lengthSeconds": 154,
+      "viewCountText": "3,000 views",
+      "viewCount": 3000,
+      "publishedText": "11 minutes ago",
+      "durationText": "2:30",
+      "lengthSeconds": 150,
       "liveNow": false,
       "premiere": false,
       "premium": false
