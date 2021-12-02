@@ -39,37 +39,37 @@
     },
     "Fireship": {
       "type": "video",
-      "title": "2022 is gonna be wild for developers...",
-      "videoId": "LOpFYMPXqE4",
+      "title": "Web 1.0-beta",
+      "videoId": "ZIv4hb_Swug",
       "author": "Fireship",
       "authorId": "Fireship",
       "videoThumbnails": [
         {
-          "url": "https://i.ytimg.com/vi/LOpFYMPXqE4/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDYGwikLR5yiqqMyKErJCFnAU5GFA",
+          "url": "https://i.ytimg.com/vi/ZIv4hb_Swug/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDIrSX0apkjSrGspPcNVOBrd39IHg",
           "width": 168,
           "height": 94
         },
         {
-          "url": "https://i.ytimg.com/vi/LOpFYMPXqE4/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAAFc6XX6-Eh7YPwm8a2AEJ_hcD8g",
+          "url": "https://i.ytimg.com/vi/ZIv4hb_Swug/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDuptGnUdsN7PnNVbXJmrzPewP6iw",
           "width": 196,
           "height": 110
         },
         {
-          "url": "https://i.ytimg.com/vi/LOpFYMPXqE4/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAGx7F6rM00QtAA69LL125xzLisrg",
+          "url": "https://i.ytimg.com/vi/ZIv4hb_Swug/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDWZ9s3NYC-gWob-mbnrASP0FUMXg",
           "width": 246,
           "height": 138
         },
         {
-          "url": "https://i.ytimg.com/vi/LOpFYMPXqE4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBA0oxme_Su_E-dVDmNyek2Ee77Kw",
+          "url": "https://i.ytimg.com/vi/ZIv4hb_Swug/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCluq5UwCgV9xtIvkKv-mmBZudIPg",
           "width": 336,
           "height": 188
         }
       ],
-      "viewCountText": "7,276 views",
-      "viewCount": 7276,
-      "publishedText": "21 minutes ago",
-      "durationText": "11:20",
-      "lengthSeconds": 680,
+      "viewCountText": "2,099 views",
+      "viewCount": 2099,
+      "publishedText": "13 minutes ago",
+      "durationText": "0:25",
+      "lengthSeconds": 25,
       "liveNow": false,
       "premiere": false,
       "premium": false
