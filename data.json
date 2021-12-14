@@ -39,37 +39,37 @@
     },
     "Fireship": {
       "type": "video",
-      "title": "Monorepos - How the Pros Scale Huge Software Projects // Turborepo vs Nx",
-      "videoId": "9iU_IE6vnJ8",
+      "title": "CSS in 100 Seconds",
+      "videoId": "OEV8gMkCHXQ",
       "author": "Fireship",
       "authorId": "Fireship",
       "videoThumbnails": [
         {
-          "url": "https://i.ytimg.com/vi/9iU_IE6vnJ8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD06pWfBBgAdiQkIrdYsIA9UK3kOg",
+          "url": "https://i.ytimg.com/vi/OEV8gMkCHXQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDzy1JoqEr71-OFvk_Een8tXNeeGg",
           "width": 168,
           "height": 94
         },
         {
-          "url": "https://i.ytimg.com/vi/9iU_IE6vnJ8/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBilrDDsRlcqbnzOBJyNLfjVxSkLA",
+          "url": "https://i.ytimg.com/vi/OEV8gMkCHXQ/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDT4mXdXSZKwkPCwoO1zWtB1XK2LA",
           "width": 196,
           "height": 110
         },
         {
-          "url": "https://i.ytimg.com/vi/9iU_IE6vnJ8/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDhFf5XRiy1Ewv-t9Yx2z-QLIMSiA",
+          "url": "https://i.ytimg.com/vi/OEV8gMkCHXQ/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA24xB5nEG-9351-NZvxvmKW_LZIg",
           "width": 246,
           "height": 138
         },
         {
-          "url": "https://i.ytimg.com/vi/9iU_IE6vnJ8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB1SNmak4VMo1wlxwN-ZmatBgvvYg",
+          "url": "https://i.ytimg.com/vi/OEV8gMkCHXQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDUCmmNMUie_h4rIgoCt_yPXfUrFg",
           "width": 336,
           "height": 188
         }
       ],
-      "viewCountText": "2,632 views",
-      "viewCount": 2632,
-      "publishedText": "10 minutes ago",
-      "durationText": "9:07",
-      "lengthSeconds": 547,
+      "viewCountText": "3,824 views",
+      "viewCount": 3824,
+      "publishedText": "12 minutes ago",
+      "durationText": "2:20",
+      "lengthSeconds": 140,
       "liveNow": false,
       "premiere": false,
       "premium": false
