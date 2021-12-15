@@ -150,37 +150,37 @@
     },
     "JomaOppa": {
       "type": "video",
-      "title": "if Squid Game was made by Programmers",
-      "videoId": "YBYI7E2PqWE",
+      "title": "a day in the life of a startup engineer working from home",
+      "videoId": "TLysAkFM4cA",
       "author": "Joma Tech",
       "authorId": "JomaOppa",
       "videoThumbnails": [
         {
-          "url": "https://i.ytimg.com/vi/YBYI7E2PqWE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLArmnplCE43mIHmaT0_H2W__hgIRw",
+          "url": "https://i.ytimg.com/vi/TLysAkFM4cA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB4Sa6vjqIT7gvh2L_APssgBJjePw",
           "width": 168,
           "height": 94
         },
         {
-          "url": "https://i.ytimg.com/vi/YBYI7E2PqWE/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBtmJLx8wRgeMxfka_l9g6ygMw2MQ",
+          "url": "https://i.ytimg.com/vi/TLysAkFM4cA/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDYNU-JR9YslcqN5tJPMsRlp69aWQ",
           "width": 196,
           "height": 110
         },
         {
-          "url": "https://i.ytimg.com/vi/YBYI7E2PqWE/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCh55A9IilP1hxWfjEJouj_9xM6Vg",
+          "url": "https://i.ytimg.com/vi/TLysAkFM4cA/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCMf3FODEbw8IQJGgHnR0WL6A7v8A",
           "width": 246,
           "height": 138
         },
         {
-          "url": "https://i.ytimg.com/vi/YBYI7E2PqWE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCO4DiWILGomU7RajT9EoOuETiD1A",
+          "url": "https://i.ytimg.com/vi/TLysAkFM4cA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAxJU7MYk-Sgj4yBHo-qEUtFIObsw",
           "width": 336,
           "height": 188
         }
       ],
-      "viewCountText": "5,150 views",
-      "viewCount": 5150,
-      "publishedText": "18 minutes ago",
-      "durationText": "6:53",
-      "lengthSeconds": 413,
+      "viewCountText": "2,830 views",
+      "viewCount": 2830,
+      "publishedText": "7 minutes ago",
+      "durationText": "8:36",
+      "lengthSeconds": 516,
       "liveNow": false,
       "premiere": false,
       "premium": false
