@@ -189,28 +189,28 @@
   "podcast": {
     "https://feeds.simplecast.com/fJGOlywC": {
       "creator": "contact.laura.kankaala@gmail.com (Antti Kurittu, Juho Jauhiainen, Laura Kankaala)",
-      "title": "Erikoisjakso - Kansalaisen kyberturvallisuus",
-      "link": "https://turvakarajat.fi/episodes/erikoisjakso-kansalaisen-kyberturvallisuus-ilDb53QE",
-      "pubDate": "Mon, 27 Dec 2021 04:00:00 +0000",
+      "title": "Erikoisjakso - Kansallinen tietoturvapäivä live-taltiointi",
+      "link": "https://turvakarajat.fi/episodes/erikoisjakso-kansallinen-tietoturvapaiva-aIFQtVtg",
+      "pubDate": "Mon, 3 Jan 2022 04:00:00 +0000",
       "author": "contact.laura.kankaala@gmail.com (Antti Kurittu, Juho Jauhiainen, Laura Kankaala)",
-      "content:encoded": "<p>Tämä erikoisjakso on tuotettu Kansalaisen kyberturvallisuus -verkkokurssia varten:<br /><a href=\"https://koulutuskalenteri.mpk.fi/Default.aspx?tabid=1054&id=155538\">https://koulutuskalenteri.mpk.fi/Default.aspx?tabid=1054&id=155538</a></p>\n",
-      "content:encodedSnippet": "Tämä erikoisjakso on tuotettu Kansalaisen kyberturvallisuus -verkkokurssia varten:\nhttps://koulutuskalenteri.mpk.fi/Default.aspx?tabid=1054&id=155538",
+      "content:encoded": "<p>Koko tietoturvapäivän ohjelma löytyy Youtubesta<br /><a href=\"https://www.youtube.com/watch?v=9lwlnsET2Cc&feature=youtu.be\">https://www.youtube.com/watch?v=9lwlnsET2Cc&feature=youtu.be</a></p>\n",
+      "content:encodedSnippet": "Koko tietoturvapäivän ohjelma löytyy Youtubesta\nhttps://www.youtube.com/watch?v=9lwlnsET2Cc&feature=youtu.be",
       "enclosure": {
-        "length": "65964191",
+        "length": "48728525",
         "type": "audio/mpeg",
-        "url": "https://cdn.simplecast.com/audio/beefbca9-0f83-4ffa-b5c0-4cd26da1c1c9/episodes/a19f2088-9a71-4ca6-b62f-aa68d9fd72f6/audio/3fcaed4a-6322-4bb9-ad93-82c76a1d60d0/default_tc.mp3?aid=rss_feed&feed=fJGOlywC"
+        "url": "https://cdn.simplecast.com/audio/beefbca9-0f83-4ffa-b5c0-4cd26da1c1c9/episodes/9d3ebeb9-bab1-425b-b6fc-412e40e9c3d1/audio/7017d0b1-167d-4a5d-aea4-07854e3a9435/default_tc.mp3?aid=rss_feed&feed=fJGOlywC"
       },
-      "content": "<p>Tämä erikoisjakso on tuotettu Kansalaisen kyberturvallisuus -verkkokurssia varten:<br /><a href=\"https://koulutuskalenteri.mpk.fi/Default.aspx?tabid=1054&id=155538\">https://koulutuskalenteri.mpk.fi/Default.aspx?tabid=1054&id=155538</a></p>\n",
-      "contentSnippet": "Tämä erikoisjakso on tuotettu Kansalaisen kyberturvallisuus -verkkokurssia varten:\nhttps://koulutuskalenteri.mpk.fi/Default.aspx?tabid=1054&id=155538",
-      "guid": "25db9d8c-616f-4ab9-a491-0d7582200275",
-      "isoDate": "2021-12-27T04:00:00.000Z",
+      "content": "<p>Koko tietoturvapäivän ohjelma löytyy Youtubesta<br /><a href=\"https://www.youtube.com/watch?v=9lwlnsET2Cc&feature=youtu.be\">https://www.youtube.com/watch?v=9lwlnsET2Cc&feature=youtu.be</a></p>\n",
+      "contentSnippet": "Koko tietoturvapäivän ohjelma löytyy Youtubesta\nhttps://www.youtube.com/watch?v=9lwlnsET2Cc&feature=youtu.be",
+      "guid": "265980ba-9d17-4436-abde-a129b80df24c",
+      "isoDate": "2022-01-03T04:00:00.000Z",
       "itunes": {
         "author": "Antti Kurittu, Juho Jauhiainen, Laura Kankaala",
-        "subtitle": "Tässä Turvakäräjien erikoisjaksossa käydään läpi kyberturvallisuuden sanastoa ja mitä eri termit tarkoittavat.",
-        "summary": "Tässä Turvakäräjien erikoisjaksossa käydään läpi kyberturvallisuuden sanastoa ja mitä eri termit tarkoittavat.",
+        "subtitle": "Live-taltiointi 27.10.2021 järjestystä kansallisesta tietoturvapäivästä. Tässä episodissa pohdimme kyberturvallisuuskentässä tapahtuvia muutoksia ja asioita, joista vuosien päästä pitää olla huolissaan.",
+        "summary": "Live-taltiointi 27.10.2021 järjestystä kansallisesta tietoturvapäivästä. Tässä episodissa pohdimme kyberturvallisuuskentässä tapahtuvia muutoksia ja asioita, joista vuosien päästä pitää olla huolissaan.",
         "explicit": "yes",
-        "duration": "01:08:22",
-        "keywords": "jyu, kyber, mpk, kybersanasto, kansalaisen kyberturvallisuus, jyväskylän yliopisto"
+        "duration": "00:50:45",
+        "keywords": "kyberrikollisuus, tekoäly, bitcoin, tietoturvapäivä, digiturvaviikko, kryptovaluutat, ransomware, blockchain"
       }
     },
     "https://hakkerit.libsyn.com/rss": {
