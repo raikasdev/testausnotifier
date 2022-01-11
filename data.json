@@ -39,37 +39,37 @@
     },
     "Fireship": {
       "type": "video",
-      "title": "REFACTOR: The Dark Side of Open Source // What really happened to Faker.js?",
-      "videoId": "R6S-b_k-ZKY",
+      "title": "Is Redis the ONLY database you need? // Fullstack app from scratch with Next.js & Redis",
+      "videoId": "DOIWQddRD5M",
       "author": "Fireship",
       "authorId": "Fireship",
       "videoThumbnails": [
         {
-          "url": "https://i.ytimg.com/vi/R6S-b_k-ZKY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDMNkxJFznHLcKfcGGEBMShbHoBDw",
+          "url": "https://i.ytimg.com/vi/DOIWQddRD5M/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCZMJE3uSbRESrUF2CX_7g6PLOZJA",
           "width": 168,
           "height": 94
         },
         {
-          "url": "https://i.ytimg.com/vi/R6S-b_k-ZKY/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBP8WC6eAc1mLOTKmKUdu54eyqwoQ",
+          "url": "https://i.ytimg.com/vi/DOIWQddRD5M/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBDc8cXrO3Vn_sZwLdAIAYaj119rw",
           "width": 196,
           "height": 110
         },
         {
-          "url": "https://i.ytimg.com/vi/R6S-b_k-ZKY/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWvDg1v3ZPNXC2lrWnM5gXDB8Isw",
+          "url": "https://i.ytimg.com/vi/DOIWQddRD5M/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAVavaW67H3Hoci0LZxBMFrkCqliw",
           "width": 246,
           "height": 138
         },
         {
-          "url": "https://i.ytimg.com/vi/R6S-b_k-ZKY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCR0fyrDqrssD3gpfvttwiGuqYBRw",
+          "url": "https://i.ytimg.com/vi/DOIWQddRD5M/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCYJgkLwH2kqgMMRCrFtgQH_N_Spg",
           "width": 336,
           "height": 188
         }
       ],
-      "viewCountText": "296 views",
-      "viewCount": 296,
-      "publishedText": "2 minutes ago",
-      "durationText": "3:49",
-      "lengthSeconds": 229,
+      "viewCountText": "3,339 views",
+      "viewCount": 3339,
+      "publishedText": "17 minutes ago",
+      "durationText": "13:04",
+      "lengthSeconds": 784,
       "liveNow": false,
       "premiere": false,
       "premium": false
