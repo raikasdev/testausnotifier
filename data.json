@@ -39,37 +39,37 @@
     },
     "Fireship": {
       "type": "video",
-      "title": "I bought stocks with JavaScript & GPT-3 // Algo Trading Tutorial for Dummies",
-      "videoId": "BrcugNqRwUs",
+      "title": "Prisma in 100 Seconds",
+      "videoId": "rLRIB6AF2Dg",
       "author": "Fireship",
       "authorId": "Fireship",
       "videoThumbnails": [
         {
-          "url": "https://i.ytimg.com/vi/BrcugNqRwUs/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCYITkAT3_K6lnFX8dStYLOrClK2w",
+          "url": "https://i.ytimg.com/vi/rLRIB6AF2Dg/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB1WqSAWByFHJ9Ef0tJivFGnKXRrg",
           "width": 168,
           "height": 94
         },
         {
-          "url": "https://i.ytimg.com/vi/BrcugNqRwUs/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBZHoNtpJBj39QCHu6HUE1X_ZWOOA",
+          "url": "https://i.ytimg.com/vi/rLRIB6AF2Dg/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDjXXIrDXNTA6rKxWucH3oGpLyzFg",
           "width": 196,
           "height": 110
         },
         {
-          "url": "https://i.ytimg.com/vi/BrcugNqRwUs/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC-_DCygT8uPZM7wL9mVjWJZNbSsA",
+          "url": "https://i.ytimg.com/vi/rLRIB6AF2Dg/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD1jHzq1wFoaABrpSPt6N2vkI5hOg",
           "width": 246,
           "height": 138
         },
         {
-          "url": "https://i.ytimg.com/vi/BrcugNqRwUs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD-KD93eyk8aY16FsUNBJy55n19bw",
+          "url": "https://i.ytimg.com/vi/rLRIB6AF2Dg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBKew5-KopPryYhn6X0q2r_Nohr_A",
           "width": 336,
           "height": 188
         }
       ],
-      "viewCountText": "6,334 views",
-      "viewCount": 6334,
-      "publishedText": "28 minutes ago",
-      "durationText": "8:13",
-      "lengthSeconds": 493,
+      "viewCountText": "5,126 views",
+      "viewCount": 5126,
+      "publishedText": "15 minutes ago",
+      "durationText": "2:34",
+      "lengthSeconds": 154,
       "liveNow": false,
       "premiere": false,
       "premium": false
