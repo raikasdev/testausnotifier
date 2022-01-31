@@ -39,37 +39,37 @@
     },
     "Fireship": {
       "type": "video",
-      "title": "I created a Command Line Game for you // 5-Minute Node.js CLI Project",
-      "videoId": "_oHByo8tiEY",
+      "title": "Ruby in 100 Seconds",
+      "videoId": "UYm0kfnRTJk",
       "author": "Fireship",
       "authorId": "Fireship",
       "videoThumbnails": [
         {
-          "url": "https://i.ytimg.com/vi/_oHByo8tiEY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAMJIyyfoitT4bICwTPEUOdVicRJQ",
+          "url": "https://i.ytimg.com/vi/UYm0kfnRTJk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCIRQq6XMPJ5Rojl8ErFI8PZfGpHQ",
           "width": 168,
           "height": 94
         },
         {
-          "url": "https://i.ytimg.com/vi/_oHByo8tiEY/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAOCKtqfmAF63OV2wuM3ck7ZkdUwQ",
+          "url": "https://i.ytimg.com/vi/UYm0kfnRTJk/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCop17vlrm9rqOaAapCRCurusiqXQ",
           "width": 196,
           "height": 110
         },
         {
-          "url": "https://i.ytimg.com/vi/_oHByo8tiEY/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBr-lEgY-EYRw1H32hL2UPyutQSfg",
+          "url": "https://i.ytimg.com/vi/UYm0kfnRTJk/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDaZJjybeYN6RhQRullYFwT9ExIpA",
           "width": 246,
           "height": 138
         },
         {
-          "url": "https://i.ytimg.com/vi/_oHByo8tiEY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBvGcdcHPe0jt0iN3_O84RbByOikQ",
+          "url": "https://i.ytimg.com/vi/UYm0kfnRTJk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBGVNrsTv_wPMoipLz3-xjbooc9HA",
           "width": 336,
           "height": 188
         }
       ],
-      "viewCountText": "1,559 views",
-      "viewCount": 1559,
-      "publishedText": "6 minutes ago",
-      "durationText": "6:25",
-      "lengthSeconds": 385,
+      "viewCountText": "5,475 views",
+      "viewCount": 5475,
+      "publishedText": "14 minutes ago",
+      "durationText": "2:37",
+      "lengthSeconds": 157,
       "liveNow": false,
       "premiere": false,
       "premium": false
