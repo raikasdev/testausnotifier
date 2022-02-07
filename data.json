@@ -39,37 +39,37 @@
     },
     "Fireship": {
       "type": "video",
-      "title": "BIG new feature lands in Node.js // The Code Report",
-      "videoId": "MBqS1kYzwTc",
+      "title": "C++ in 100 Seconds",
+      "videoId": "MNeX4EGtR5Y",
       "author": "Fireship",
       "authorId": "Fireship",
       "videoThumbnails": [
         {
-          "url": "https://i.ytimg.com/vi/MBqS1kYzwTc/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDu-zutZGRLSolgSl16fmOeINyRhw",
+          "url": "https://i.ytimg.com/vi/MNeX4EGtR5Y/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB9_3BS0MTKCzVuOXjrjCzb6SsPuQ",
           "width": 168,
           "height": 94
         },
         {
-          "url": "https://i.ytimg.com/vi/MBqS1kYzwTc/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDqi-SHDQ_Obl-FkgpJqjDurEdXVg",
+          "url": "https://i.ytimg.com/vi/MNeX4EGtR5Y/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCAaR4_IuZtA6HOEfADhIrGl_tWcQ",
           "width": 196,
           "height": 110
         },
         {
-          "url": "https://i.ytimg.com/vi/MBqS1kYzwTc/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCpa8YJOnyc2qXLkJk_0m8xYnAotQ",
+          "url": "https://i.ytimg.com/vi/MNeX4EGtR5Y/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD_YKpjmrYb9sR1BhBP-CFCL0XTFA",
           "width": 246,
           "height": 138
         },
         {
-          "url": "https://i.ytimg.com/vi/MBqS1kYzwTc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCpXI2xGciZ-cUbrbmVBAg1lLm0Yw",
+          "url": "https://i.ytimg.com/vi/MNeX4EGtR5Y/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWftl_vb5JFYXHE9nak479xlSl9g",
           "width": 336,
           "height": 188
         }
       ],
-      "viewCountText": "3,754 views",
-      "viewCount": 3754,
-      "publishedText": "12 minutes ago",
-      "durationText": "2:52",
-      "lengthSeconds": 172,
+      "viewCountText": "3,580 views",
+      "viewCount": 3580,
+      "publishedText": "9 minutes ago",
+      "durationText": "2:46",
+      "lengthSeconds": 166,
       "liveNow": false,
       "premiere": false,
       "premium": false
