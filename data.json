@@ -39,37 +39,37 @@
     },
     "Fireship": {
       "type": "video",
-      "title": "Firebase in 100 Seconds",
-      "videoId": "vAoB4VbhRzM",
+      "title": "The Shocking State of JavaScript // The Code Report",
+      "videoId": "1L2hrG-7i2Y",
       "author": "Fireship",
       "authorId": "Fireship",
       "videoThumbnails": [
         {
-          "url": "https://i.ytimg.com/vi/vAoB4VbhRzM/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB5v3dKNbqSr7Is-u2BYcO97H3ZjQ",
+          "url": "https://i.ytimg.com/vi/1L2hrG-7i2Y/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAK-BPL_y-qyHzqUdifg_VAyoXj6A",
           "width": 168,
           "height": 94
         },
         {
-          "url": "https://i.ytimg.com/vi/vAoB4VbhRzM/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAqM1QygK8OiImbjHSRVAKeTVK94A",
+          "url": "https://i.ytimg.com/vi/1L2hrG-7i2Y/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCkbqUNuASnTKlj1IV141JySMl-Ew",
           "width": 196,
           "height": 110
         },
         {
-          "url": "https://i.ytimg.com/vi/vAoB4VbhRzM/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDVuFsPBaMH9lKaNVRvVwGCi6TR4g",
+          "url": "https://i.ytimg.com/vi/1L2hrG-7i2Y/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBThlI1Lq0nMqwzTmCyVBMcmxY4dA",
           "width": 246,
           "height": 138
         },
         {
-          "url": "https://i.ytimg.com/vi/vAoB4VbhRzM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDOyOQLUSUUBLQsUJQ7Ej0vZO5VOg",
+          "url": "https://i.ytimg.com/vi/1L2hrG-7i2Y/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBZUG_QwnTv7E6liF72k1XT3_dnuw",
           "width": 336,
           "height": 188
         }
       ],
-      "viewCountText": "5,983 views",
-      "viewCount": 5983,
-      "publishedText": "17 minutes ago",
-      "durationText": "2:35",
-      "lengthSeconds": 155,
+      "viewCountText": "2,756 views",
+      "viewCount": 2756,
+      "publishedText": "7 minutes ago",
+      "durationText": "3:04",
+      "lengthSeconds": 184,
       "liveNow": false,
       "premiere": false,
       "premium": false
