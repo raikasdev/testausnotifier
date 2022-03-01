@@ -39,37 +39,37 @@
     },
     "Fireship": {
       "type": "video",
-      "title": "I feel cyber attacked // The Code Report",
-      "videoId": "3OqQhtLwY9o",
+      "title": "10 React Antipatterns to Avoid - Code This, Not That!",
+      "videoId": "b0IZo2Aho9Y",
       "author": "Fireship",
       "authorId": "Fireship",
       "videoThumbnails": [
         {
-          "url": "https://i.ytimg.com/vi/3OqQhtLwY9o/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAznZ4UlwMzeP9WO_lg0k2S6mCZkw",
+          "url": "https://i.ytimg.com/vi/b0IZo2Aho9Y/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAxofXPUscMCK8UJD1hqtcHjeJ4Lw",
           "width": 168,
           "height": 94
         },
         {
-          "url": "https://i.ytimg.com/vi/3OqQhtLwY9o/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBHcQAJmFHarhk0ECAi4_uqu3rYiw",
+          "url": "https://i.ytimg.com/vi/b0IZo2Aho9Y/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDOgTgKzcFo3hldX8GD92ml4XdIsA",
           "width": 196,
           "height": 110
         },
         {
-          "url": "https://i.ytimg.com/vi/3OqQhtLwY9o/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBnm_sF-1G75b1HaT64ydVbzRmMtA",
+          "url": "https://i.ytimg.com/vi/b0IZo2Aho9Y/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDz_vVQXkT5v3YZ0Kxlu2gq8JJ8Rg",
           "width": 246,
           "height": 138
         },
         {
-          "url": "https://i.ytimg.com/vi/3OqQhtLwY9o/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC3gfpcUV-Q7e44QHYOxwZ6se-Pyw",
+          "url": "https://i.ytimg.com/vi/b0IZo2Aho9Y/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCtFnqwxLC2GACqVMbzST3bMR1Ejg",
           "width": 336,
           "height": 188
         }
       ],
-      "viewCountText": "5,424 views",
-      "viewCount": 5424,
-      "publishedText": "14 minutes ago",
-      "durationText": "2:52",
-      "lengthSeconds": 172,
+      "viewCountText": "3,049 views",
+      "viewCount": 3049,
+      "publishedText": "13 minutes ago",
+      "durationText": "8:55",
+      "lengthSeconds": 535,
       "liveNow": false,
       "premiere": false,
       "premium": false
