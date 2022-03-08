@@ -39,37 +39,37 @@
     },
     "Fireship": {
       "type": "video",
-      "title": "Unity in 100 Seconds",
-      "videoId": "iqlH4okiQqg",
+      "title": "React Query in 100 Seconds",
+      "videoId": "novnyCaa7To",
       "author": "Fireship",
       "authorId": "Fireship",
       "videoThumbnails": [
         {
-          "url": "https://i.ytimg.com/vi/iqlH4okiQqg/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBkEI0vCZaLZJ8z7UQXRixZ-673mw",
+          "url": "https://i.ytimg.com/vi/novnyCaa7To/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDedOovMCIZ9qrOsB6s-19_dEW-Sw",
           "width": 168,
           "height": 94
         },
         {
-          "url": "https://i.ytimg.com/vi/iqlH4okiQqg/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAyTLV1Mnnse61lSFwORF5dAZXGGQ",
+          "url": "https://i.ytimg.com/vi/novnyCaa7To/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBDvcdgvxX8tHTNuflk4Wnm5EchPQ",
           "width": 196,
           "height": 110
         },
         {
-          "url": "https://i.ytimg.com/vi/iqlH4okiQqg/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLChjIaoh6nx2peAf3nNgEU5ysepng",
+          "url": "https://i.ytimg.com/vi/novnyCaa7To/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD-DX9iCveWHy5yiCKV_E1Ge2peRQ",
           "width": 246,
           "height": 138
         },
         {
-          "url": "https://i.ytimg.com/vi/iqlH4okiQqg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLApVdzab3dTZdU33YweXzyuHLIFMg",
+          "url": "https://i.ytimg.com/vi/novnyCaa7To/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBzqSseVIldDAd_mORLblmL584uJA",
           "width": 336,
           "height": 188
         }
       ],
-      "viewCountText": "3,232 views",
-      "viewCount": 3232,
-      "publishedText": "9 minutes ago",
-      "durationText": "2:45",
-      "lengthSeconds": 165,
+      "viewCountText": "5,575 views",
+      "viewCount": 5575,
+      "publishedText": "16 minutes ago",
+      "durationText": "2:33",
+      "lengthSeconds": 153,
       "liveNow": false,
       "premiere": false,
       "premium": false
