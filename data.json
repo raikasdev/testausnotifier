@@ -39,37 +39,37 @@
     },
     "Fireship": {
       "type": "video",
-      "title": "A heroic new proposal for JavaScript // The Code Report",
-      "videoId": "O9F4K804XC8",
+      "title": "Linux in 100 Seconds",
+      "videoId": "rrB13utjYV4",
       "author": "Fireship",
       "authorId": "Fireship",
       "videoThumbnails": [
         {
-          "url": "https://i.ytimg.com/vi/O9F4K804XC8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCkTdzCTc-HbJAAA_gxfuzfeqCf5A",
+          "url": "https://i.ytimg.com/vi/rrB13utjYV4/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDPFnTyPyAZf0dwbMr7IHLwdEy6Sg",
           "width": 168,
           "height": 94
         },
         {
-          "url": "https://i.ytimg.com/vi/O9F4K804XC8/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCca_h7LkIURfZLlLROyt18CCIRCA",
+          "url": "https://i.ytimg.com/vi/rrB13utjYV4/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBzchNnIaMguIqaBDtDb1qPvJRK4Q",
           "width": 196,
           "height": 110
         },
         {
-          "url": "https://i.ytimg.com/vi/O9F4K804XC8/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC-Tb9SxierXq2gCB3xoXjAVkQ3Nw",
+          "url": "https://i.ytimg.com/vi/rrB13utjYV4/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBaxVQhckIdrbVU9r1c-8k9I1Q52Q",
           "width": 246,
           "height": 138
         },
         {
-          "url": "https://i.ytimg.com/vi/O9F4K804XC8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAkPMu5DnusqefQeSmv0NVYo0mW2A",
+          "url": "https://i.ytimg.com/vi/rrB13utjYV4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC5o-KKC90PPi-IS1YB61Ak7JPmpg",
           "width": 336,
           "height": 188
         }
       ],
-      "viewCountText": "2,018 views",
-      "viewCount": 2018,
+      "viewCountText": "2,200 views",
+      "viewCount": 2200,
       "publishedText": "6 minutes ago",
-      "durationText": "3:00",
-      "lengthSeconds": 180,
+      "durationText": "2:42",
+      "lengthSeconds": 162,
       "liveNow": false,
       "premiere": false,
       "premium": false
