@@ -76,37 +76,37 @@
     },
     "UCWr0mx597DnSGLFk1WfvSkQ": {
       "type": "video",
-      "title": "remote developer life",
-      "videoId": "GHb9pF9W2Ww",
+      "title": "Why I Use Flutter Over React Native",
+      "videoId": "FETHa3A7qTs",
       "author": "Kalle Hallden",
       "authorId": "UCWr0mx597DnSGLFk1WfvSkQ",
       "videoThumbnails": [
         {
-          "url": "https://i.ytimg.com/vi/GHb9pF9W2Ww/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBXbSNsWhQLafo6g18TxKnHlW0kxg",
+          "url": "https://i.ytimg.com/vi/FETHa3A7qTs/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCkqS1oT_KWlwsL2a9AnmbipM7ZLg",
           "width": 168,
           "height": 94
         },
         {
-          "url": "https://i.ytimg.com/vi/GHb9pF9W2Ww/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAU9r3kZ2mtDNBum2hPRYEd13X9HQ",
+          "url": "https://i.ytimg.com/vi/FETHa3A7qTs/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCOoPuSh72D2PAsCbU_bYep7fmVFg",
           "width": 196,
           "height": 110
         },
         {
-          "url": "https://i.ytimg.com/vi/GHb9pF9W2Ww/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAYPaQ7F9T-KX5Ef2HBtevUWHeSGA",
+          "url": "https://i.ytimg.com/vi/FETHa3A7qTs/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDGi3KRGde2YwTu7wUiCH2FZvTtBQ",
           "width": 246,
           "height": 138
         },
         {
-          "url": "https://i.ytimg.com/vi/GHb9pF9W2Ww/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAycgs84Ytid670LX7x-p5hvPPqig",
+          "url": "https://i.ytimg.com/vi/FETHa3A7qTs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB2CTws_pHZWXp82jDXHXkx29fRUA",
           "width": 336,
           "height": 188
         }
       ],
-      "viewCountText": "356 views",
-      "viewCount": 356,
-      "publishedText": "7 minutes ago",
-      "durationText": "12:15",
-      "lengthSeconds": 735,
+      "viewCountText": "182 views",
+      "viewCount": 182,
+      "publishedText": "4 minutes ago",
+      "durationText": "11:42",
+      "lengthSeconds": 702,
       "liveNow": false,
       "premiere": false,
       "premium": false
