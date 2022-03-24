@@ -39,37 +39,37 @@
     },
     "Fireship": {
       "type": "video",
-      "title": "Binary Search Algorithm in 100 Seconds",
-      "videoId": "MFhxShGxHWc",
+      "title": "my code works… why?",
+      "videoId": "9BvBRXkJA58",
       "author": "Fireship",
       "authorId": "Fireship",
       "videoThumbnails": [
         {
-          "url": "https://i.ytimg.com/vi/MFhxShGxHWc/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCpegUpZ-dmTSIo_SjTr2cdq7Kn0Q",
-          "width": 168,
-          "height": 94
+          "url": "https://i.ytimg.com/vi/9BvBRXkJA58/2.jpg",
+          "width": 120,
+          "height": 90
         },
         {
-          "url": "https://i.ytimg.com/vi/MFhxShGxHWc/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBOA5E8WFH8PyucelwM0QTKHSE1AQ",
-          "width": 196,
-          "height": 110
+          "url": "https://i.ytimg.com/vi/9BvBRXkJA58/hq2.jpg",
+          "width": 480,
+          "height": 360
         },
         {
-          "url": "https://i.ytimg.com/vi/MFhxShGxHWc/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBvr9JaVAVpUPR7KzSrd8v0jRoogQ",
-          "width": 246,
-          "height": 138
+          "url": "https://i.ytimg.com/vi/9BvBRXkJA58/sd2.jpg",
+          "width": 640,
+          "height": 480
         },
         {
-          "url": "https://i.ytimg.com/vi/MFhxShGxHWc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBH18_Hh3JTJ3OaG1Vkw6dDReoClw",
-          "width": 336,
-          "height": 188
+          "url": "https://i.ytimg.com/vi/9BvBRXkJA58/maxres2.jpg",
+          "width": 1920,
+          "height": 1080
         }
       ],
-      "viewCountText": "4,402 views",
-      "viewCount": 4402,
-      "publishedText": "15 minutes ago",
-      "durationText": "2:20",
-      "lengthSeconds": 140,
+      "viewCountText": "5,956 views",
+      "viewCount": 5956,
+      "publishedText": "17 minutes ago",
+      "durationText": "SHORTS",
+      "lengthSeconds": 0,
       "liveNow": false,
       "premiere": false,
       "premium": false
