@@ -39,37 +39,37 @@
     },
     "Fireship": {
       "type": "video",
-      "title": "my code works… why?",
-      "videoId": "9BvBRXkJA58",
+      "title": "I use Arch on an M1 MacBook, btw",
+      "videoId": "j_I9nkpovCQ",
       "author": "Fireship",
       "authorId": "Fireship",
       "videoThumbnails": [
         {
-          "url": "https://i.ytimg.com/vi/9BvBRXkJA58/2.jpg",
-          "width": 120,
-          "height": 90
+          "url": "https://i.ytimg.com/vi/j_I9nkpovCQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAtw-LyX_djx2v1GQwLs8Aupv2B-g",
+          "width": 168,
+          "height": 94
         },
         {
-          "url": "https://i.ytimg.com/vi/9BvBRXkJA58/hq2.jpg",
-          "width": 480,
-          "height": 360
+          "url": "https://i.ytimg.com/vi/j_I9nkpovCQ/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB9EtzmfPpxnrkqoNDww8-HYINfNg",
+          "width": 196,
+          "height": 110
         },
         {
-          "url": "https://i.ytimg.com/vi/9BvBRXkJA58/sd2.jpg",
-          "width": 640,
-          "height": 480
+          "url": "https://i.ytimg.com/vi/j_I9nkpovCQ/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCXvow3kpWS628sv0vvwEqEhvpV6Q",
+          "width": 246,
+          "height": 138
         },
         {
-          "url": "https://i.ytimg.com/vi/9BvBRXkJA58/maxres2.jpg",
-          "width": 1920,
-          "height": 1080
+          "url": "https://i.ytimg.com/vi/j_I9nkpovCQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAmADrlUlzd3zb_snpTC39KOdXhRA",
+          "width": 336,
+          "height": 188
         }
       ],
-      "viewCountText": "5,956 views",
-      "viewCount": 5956,
-      "publishedText": "17 minutes ago",
-      "durationText": "SHORTS",
-      "lengthSeconds": 0,
+      "viewCountText": "5,690 views",
+      "viewCount": 5690,
+      "publishedText": "13 minutes ago",
+      "durationText": "3:05",
+      "lengthSeconds": 185,
       "liveNow": false,
       "premiere": false,
       "premium": false
