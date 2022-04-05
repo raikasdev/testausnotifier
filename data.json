@@ -210,25 +210,25 @@
       }
     },
     "https://hakkerit.libsyn.com/rss": {
-      "title": "Suomen asialla | 0x20",
-      "link": "https://hakkerit.libsyn.com/suomen-asialla-0x20",
-      "pubDate": "Tue, 01 Mar 2022 13:58:32 +0000",
-      "content:encoded": "<p>Maailmalla tapahtuu paljon, Euroopaassa on käynnissä sota. Poikkeustilanteissa Suomen asialla maailmalla on erityisesti Ulkoministeriö, joka on jatkuvan verkkovaikuttamisen kohteena. Kutsuimme Ulkoministeriön tietoturvapäällikkö Matti Parviaisen kartanolle keskustelemaan niin Ukrainan sodasta, kuin myös Pegasus-vakoiluohjelmasta. </p>",
-      "content:encodedSnippet": "Maailmalla tapahtuu paljon, Euroopaassa on käynnissä sota. Poikkeustilanteissa Suomen asialla maailmalla on erityisesti Ulkoministeriö, joka on jatkuvan verkkovaikuttamisen kohteena. Kutsuimme Ulkoministeriön tietoturvapäällikkö Matti Parviaisen kartanolle keskustelemaan niin Ukrainan sodasta, kuin myös Pegasus-vakoiluohjelmasta.",
+      "title": "Algoritmien maailma |0x21",
+      "link": "https://hakkerit.libsyn.com/algoritmien-maailma-0x21",
+      "pubDate": "Tue, 05 Apr 2022 06:21:25 +0000",
+      "content:encoded": "<p>Koneoppiminen ja tekoäly muokkaavat maailmaamme nopeammin kuin koskaan aiemmin ja tästä syystä kutsuimme kartanolle professori Jaakko Lehtisen, joka edustaa näissä maailman kärkeä. Keskustelimme projekteista joiden parissa hän työskentelee ja siitä kuinka tekoälyn tuottamia väärennöksiä, kuten syväväärennöksiä, voidaan tunnistaa. </p> <p>Äänijulkaisun lähdeluettelo:</p> <p>Vieras: Jaakko Lehtinen https://users.aalto.fi/~lehtinj7/</p> <p>Microsoft ja Fortum rakentaa suomeen datakeskusalueen https://www.fortum.fi/media/2022/03/microsoft-ja-fortum-yhteistyohon-microsoft-rakentaa-suomeen-datakeskusalueen-josta-tuotetaan-paastotonta-kaukolampoa-fortumin-asiakkaille-paakaupunkiseudulla</p> <p>WithSecure Oyj https://withsecure.com</p> <p>This X does not exist https://thisxdoesnotexist.com/</p> <p>Johdatus supertietokoneisiin https://edukamu.fi/elements-of-supercomputing-fi</p> <p>Command Line Heroes https://www.redhat.com/en/command-line-heroes/season-9/relentless-replicators</p> <p>Proxygen välityspalvelin https://apps.apple.com/fi/app/proxygen/id1602229284</p> <p>JC - JSON Convert https://github.com/kellyjonbrazil/jc</p>",
+      "content:encodedSnippet": "Koneoppiminen ja tekoäly muokkaavat maailmaamme nopeammin kuin koskaan aiemmin ja tästä syystä kutsuimme kartanolle professori Jaakko Lehtisen, joka edustaa näissä maailman kärkeä. Keskustelimme projekteista joiden parissa hän työskentelee ja siitä kuinka tekoälyn tuottamia väärennöksiä, kuten syväväärennöksiä, voidaan tunnistaa. \n Äänijulkaisun lähdeluettelo:\n Vieras: Jaakko Lehtinen https://users.aalto.fi/~lehtinj7/\n Microsoft ja Fortum rakentaa suomeen datakeskusalueen https://www.fortum.fi/media/2022/03/microsoft-ja-fortum-yhteistyohon-microsoft-rakentaa-suomeen-datakeskusalueen-josta-tuotetaan-paastotonta-kaukolampoa-fortumin-asiakkaille-paakaupunkiseudulla\n WithSecure Oyj https://withsecure.com\n This X does not exist https://thisxdoesnotexist.com/\n Johdatus supertietokoneisiin https://edukamu.fi/elements-of-supercomputing-fi\n Command Line Heroes https://www.redhat.com/en/command-line-heroes/season-9/relentless-replicators\n Proxygen välityspalvelin https://apps.apple.com/fi/app/proxygen/id1602229284\n JC - JSON Convert https://github.com/kellyjonbrazil/jc",
       "enclosure": {
-        "length": "55964669",
+        "length": "80415963",
         "type": "audio/mpeg",
-        "url": "https://traffic.libsyn.com/secure/hakkerit/Suomen_asialla_2022_2.mp3?dest-id=1518941"
+        "url": "https://traffic.libsyn.com/secure/hakkerit/2022_4.mp3?dest-id=1518941"
       },
-      "content": "<p>Maailmalla tapahtuu paljon, Euroopaassa on käynnissä sota. Poikkeustilanteissa Suomen asialla maailmalla on erityisesti Ulkoministeriö, joka on jatkuvan verkkovaikuttamisen kohteena. Kutsuimme Ulkoministeriön tietoturvapäällikkö Matti Parviaisen kartanolle keskustelemaan niin Ukrainan sodasta, kuin myös Pegasus-vakoiluohjelmasta. </p>",
-      "contentSnippet": "Maailmalla tapahtuu paljon, Euroopaassa on käynnissä sota. Poikkeustilanteissa Suomen asialla maailmalla on erityisesti Ulkoministeriö, joka on jatkuvan verkkovaikuttamisen kohteena. Kutsuimme Ulkoministeriön tietoturvapäällikkö Matti Parviaisen kartanolle keskustelemaan niin Ukrainan sodasta, kuin myös Pegasus-vakoiluohjelmasta.",
-      "guid": "73da0c16-dce3-41b6-9e48-e6466f7c735e",
-      "isoDate": "2022-03-01T13:58:32.000Z",
+      "content": "<p>Koneoppiminen ja tekoäly muokkaavat maailmaamme nopeammin kuin koskaan aiemmin ja tästä syystä kutsuimme kartanolle professori Jaakko Lehtisen, joka edustaa näissä maailman kärkeä. Keskustelimme projekteista joiden parissa hän työskentelee ja siitä kuinka tekoälyn tuottamia väärennöksiä, kuten syväväärennöksiä, voidaan tunnistaa. </p> <p>Äänijulkaisun lähdeluettelo:</p> <p>Vieras: Jaakko Lehtinen<br /> https://users.aalto.fi/~lehtinj7/</p> <p>Microsoft ja Fortum rakentaa suomeen datakeskusalueen<br /> https://www.fortum.fi/media/2022/03/microsoft-ja-fortum-yhteistyohon-microsoft-rakentaa-suomeen-datakeskusalueen-josta-tuotetaan-paastotonta-kaukolampoa-fortumin-asiakkaille-paakaupunkiseudulla</p> <p>WithSecure Oyj<br /> https://withsecure.com</p> <p>This X does not exist<br /> https://thisxdoesnotexist.com/</p> <p>Johdatus supertietokoneisiin<br /> https://edukamu.fi/elements-of-supercomputing-fi</p> <p>Command Line Heroes<br /> https://www.redhat.com/en/command-line-heroes/season-9/relentless-replicators</p> <p>Proxygen välityspalvelin<br /> https://apps.apple.com/fi/app/proxygen/id1602229284</p> <p>JC - JSON Convert<br /> https://github.com/kellyjonbrazil/jc</p>",
+      "contentSnippet": "Koneoppiminen ja tekoäly muokkaavat maailmaamme nopeammin kuin koskaan aiemmin ja tästä syystä kutsuimme kartanolle professori Jaakko Lehtisen, joka edustaa näissä maailman kärkeä. Keskustelimme projekteista joiden parissa hän työskentelee ja siitä kuinka tekoälyn tuottamia väärennöksiä, kuten syväväärennöksiä, voidaan tunnistaa. \n Äänijulkaisun lähdeluettelo:\n Vieras: Jaakko Lehtinen\n https://users.aalto.fi/~lehtinj7/\n Microsoft ja Fortum rakentaa suomeen datakeskusalueen\n https://www.fortum.fi/media/2022/03/microsoft-ja-fortum-yhteistyohon-microsoft-rakentaa-suomeen-datakeskusalueen-josta-tuotetaan-paastotonta-kaukolampoa-fortumin-asiakkaille-paakaupunkiseudulla\n WithSecure Oyj\n https://withsecure.com\n This X does not exist\n https://thisxdoesnotexist.com/\n Johdatus supertietokoneisiin\n https://edukamu.fi/elements-of-supercomputing-fi\n Command Line Heroes\n https://www.redhat.com/en/command-line-heroes/season-9/relentless-replicators\n Proxygen välityspalvelin\n https://apps.apple.com/fi/app/proxygen/id1602229284\n JC - JSON Convert\n https://github.com/kellyjonbrazil/jc",
+      "guid": "2cc980a1-f79a-476b-bf9f-fa909fe96743",
+      "isoDate": "2022-04-05T06:21:25.000Z",
       "itunes": {
-        "subtitle": "Maailmalla tapahtuu paljon, Euroopaassa on käynnissä sota. Poikkeustilanteissa Suomen asialla maailmalla on erityisesti Ulkoministeriö, joka on jatkuvan verkkovaikuttamisen kohteena. Kutsuimme Ulkoministeriön tietoturvapäällikkö Matti...",
+        "subtitle": "Koneoppiminen ja tekoäly muokkaavat maailmaamme nopeammin kuin koskaan aiemmin ja tästä syystä kutsuimme kartanolle professori Jaakko Lehtisen, joka edustaa näissä maailman kärkeä. Keskustelimme projekteista joiden parissa hän työskentelee...",
         "explicit": "false",
-        "duration": "38:50",
-        "image": "https://ssl-static.libsyn.com/p/assets/4/6/4/a/464ad706e807a54588c4a68c3ddbc4f2/Libsyn_web-500x500-20220301-af45t6cc87.jpg",
+        "duration": "55:49",
+        "image": "https://ssl-static.libsyn.com/p/assets/d/0/2/3/d023dab6c3178132/LIBSYN_herrasmieshakkerit_valk_web_300x300_2_copy.png",
         "keywords": ""
       }
     },
