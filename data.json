@@ -34,37 +34,37 @@
     },
     "Fireship": {
       "type": "video",
-      "title": "Redux in 100 Seconds",
-      "videoId": "_shA5Xwe8_4",
+      "title": "React for the Haters in 100 Seconds",
+      "videoId": "HyWYpM_S-2c",
       "author": "Fireship",
       "authorId": "Fireship",
       "videoThumbnails": [
         {
-          "url": "https://i.ytimg.com/vi/_shA5Xwe8_4/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCggDOsI3MXrCgxTP4d67ZP6HDjoQ",
+          "url": "https://i.ytimg.com/vi/HyWYpM_S-2c/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAkv4nAMxNPqueGbn4jWVlCLdWE6w",
           "width": 168,
           "height": 94
         },
         {
-          "url": "https://i.ytimg.com/vi/_shA5Xwe8_4/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB65YF3S2XAUK1zh9M-ABqmKx48Wg",
+          "url": "https://i.ytimg.com/vi/HyWYpM_S-2c/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC4KjMEKkICwVGtG_6-EKrdl1Tv7A",
           "width": 196,
           "height": 110
         },
         {
-          "url": "https://i.ytimg.com/vi/_shA5Xwe8_4/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC4PsBJzH3sPVTiYA484qpjhK65Zw",
+          "url": "https://i.ytimg.com/vi/HyWYpM_S-2c/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBMybGQMhDa-fIztt57Pq4lOVaqUw",
           "width": 246,
           "height": 138
         },
         {
-          "url": "https://i.ytimg.com/vi/_shA5Xwe8_4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDSxWeRwp9E7o140hoTMASUSyNmDA",
+          "url": "https://i.ytimg.com/vi/HyWYpM_S-2c/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDXsR25dbj0gb019EtzA2SErt5How",
           "width": 336,
           "height": 188
         }
       ],
-      "viewCountText": "12,788 views",
-      "viewCount": 12788,
-      "publishedText": "32 minutes ago",
-      "durationText": "2:33",
-      "lengthSeconds": 153,
+      "viewCountText": "13,911 views",
+      "viewCount": 13911,
+      "publishedText": "25 minutes ago",
+      "durationText": "2:34",
+      "lengthSeconds": 154,
       "liveNow": false,
       "premiere": false,
       "premium": false
