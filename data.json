@@ -34,37 +34,37 @@
     },
     "Fireship": {
       "type": "video",
-      "title": "React for the Haters in 100 Seconds",
-      "videoId": "HyWYpM_S-2c",
+      "title": "The Nuxt big thing in web development?",
+      "videoId": "noq-ZHTD2Cg",
       "author": "Fireship",
       "authorId": "Fireship",
       "videoThumbnails": [
         {
-          "url": "https://i.ytimg.com/vi/HyWYpM_S-2c/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAkv4nAMxNPqueGbn4jWVlCLdWE6w",
+          "url": "https://i.ytimg.com/vi/noq-ZHTD2Cg/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBv9vHVoDTNm9zh7etJTbyAirNUHw",
           "width": 168,
           "height": 94
         },
         {
-          "url": "https://i.ytimg.com/vi/HyWYpM_S-2c/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC4KjMEKkICwVGtG_6-EKrdl1Tv7A",
+          "url": "https://i.ytimg.com/vi/noq-ZHTD2Cg/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCtymQQPYsGExr7EbQTqe64XjiS8g",
           "width": 196,
           "height": 110
         },
         {
-          "url": "https://i.ytimg.com/vi/HyWYpM_S-2c/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBMybGQMhDa-fIztt57Pq4lOVaqUw",
+          "url": "https://i.ytimg.com/vi/noq-ZHTD2Cg/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDJI_1uAzjL0Dys5IxQgf3V9gEF_g",
           "width": 246,
           "height": 138
         },
         {
-          "url": "https://i.ytimg.com/vi/HyWYpM_S-2c/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDXsR25dbj0gb019EtzA2SErt5How",
+          "url": "https://i.ytimg.com/vi/noq-ZHTD2Cg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCoeTwjDNKJJxEJ1LQYDOEU1FAGxQ",
           "width": 336,
           "height": 188
         }
       ],
-      "viewCountText": "13,911 views",
-      "viewCount": 13911,
-      "publishedText": "25 minutes ago",
-      "durationText": "2:34",
-      "lengthSeconds": 154,
+      "viewCountText": "17,678 views",
+      "viewCount": 17678,
+      "publishedText": "32 minutes ago",
+      "durationText": "4:55",
+      "lengthSeconds": 295,
       "liveNow": false,
       "premiere": false,
       "premium": false
