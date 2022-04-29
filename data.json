@@ -34,37 +34,37 @@
     },
     "Fireship": {
       "type": "video",
-      "title": "The Nuxt big thing in web development?",
-      "videoId": "noq-ZHTD2Cg",
+      "title": "Perl in 100 Seconds",
+      "videoId": "74_7LrRe5DI",
       "author": "Fireship",
       "authorId": "Fireship",
       "videoThumbnails": [
         {
-          "url": "https://i.ytimg.com/vi/noq-ZHTD2Cg/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBv9vHVoDTNm9zh7etJTbyAirNUHw",
+          "url": "https://i.ytimg.com/vi/74_7LrRe5DI/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC9P3-RlhaM_JwY-4uPuGQ36Ygy9g",
           "width": 168,
           "height": 94
         },
         {
-          "url": "https://i.ytimg.com/vi/noq-ZHTD2Cg/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCtymQQPYsGExr7EbQTqe64XjiS8g",
+          "url": "https://i.ytimg.com/vi/74_7LrRe5DI/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBQG-0eVc-9c6IwlZA_8nATI0EY_g",
           "width": 196,
           "height": 110
         },
         {
-          "url": "https://i.ytimg.com/vi/noq-ZHTD2Cg/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDJI_1uAzjL0Dys5IxQgf3V9gEF_g",
+          "url": "https://i.ytimg.com/vi/74_7LrRe5DI/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAmBBrAuJtyw4dk4JBat4i83VOk5g",
           "width": 246,
           "height": 138
         },
         {
-          "url": "https://i.ytimg.com/vi/noq-ZHTD2Cg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCoeTwjDNKJJxEJ1LQYDOEU1FAGxQ",
+          "url": "https://i.ytimg.com/vi/74_7LrRe5DI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCzgixVGkMOyqlDTGWT4yG-_5N4yA",
           "width": 336,
           "height": 188
         }
       ],
-      "viewCountText": "17,678 views",
-      "viewCount": 17678,
-      "publishedText": "32 minutes ago",
-      "durationText": "4:55",
-      "lengthSeconds": 295,
+      "viewCountText": "4,500 views",
+      "viewCount": 4500,
+      "publishedText": "11 minutes ago",
+      "durationText": "2:26",
+      "lengthSeconds": 146,
       "liveNow": false,
       "premiere": false,
       "premium": false
