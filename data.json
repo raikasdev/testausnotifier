@@ -39,37 +39,37 @@
     },
     "Fireship": {
       "type": "video",
-      "title": "10 Programmer Stereotypes",
-      "videoId": "_k-F-MMvQV4",
+      "title": "LLVM in 100 Seconds",
+      "videoId": "BT2Cv-Tjq7Q",
       "author": "Fireship",
       "authorId": "Fireship",
       "videoThumbnails": [
         {
-          "url": "https://i.ytimg.com/vi/_k-F-MMvQV4/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBjasrYI3uXO0XIXGlHuNG6L2UMmg",
+          "url": "https://i.ytimg.com/vi/BT2Cv-Tjq7Q/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDdZw03UQQ2omw7YBTdPEQQaimJIw",
           "width": 168,
           "height": 94
         },
         {
-          "url": "https://i.ytimg.com/vi/_k-F-MMvQV4/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDqtGqBbu9Lus6s-NVbQ3ABR11teQ",
+          "url": "https://i.ytimg.com/vi/BT2Cv-Tjq7Q/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC6TCVsx3PjcSY-TS55ElAo2q6CwQ",
           "width": 196,
           "height": 110
         },
         {
-          "url": "https://i.ytimg.com/vi/_k-F-MMvQV4/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDUV6cTGoUU__c8mYmSLXZ-jBvEdQ",
+          "url": "https://i.ytimg.com/vi/BT2Cv-Tjq7Q/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDj6F4A84YJJM9NLBQcfdPa1n_RuQ",
           "width": 246,
           "height": 138
         },
         {
-          "url": "https://i.ytimg.com/vi/_k-F-MMvQV4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDD8_ua6NeRxYBogcM5-5hJiN2G4A",
+          "url": "https://i.ytimg.com/vi/BT2Cv-Tjq7Q/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAqsCtv-os3i6f99n8j42r-F2qgcw",
           "width": 336,
           "height": 188
         }
       ],
-      "viewCountText": "6,152 views",
-      "viewCount": 6152,
+      "viewCountText": "6,742 views",
+      "viewCount": 6742,
       "publishedText": "13 minutes ago",
-      "durationText": "5:08",
-      "lengthSeconds": 308,
+      "durationText": "2:36",
+      "lengthSeconds": 156,
       "liveNow": false,
       "premiere": false,
       "premium": false
