@@ -39,37 +39,37 @@
     },
     "Fireship": {
       "type": "video",
-      "title": "JavaScript just got way faster",
-      "videoId": "FMhScnY0dME",
+      "title": "Is \"edge\" computing really faster?",
+      "videoId": "yOP5-3_WFus",
       "author": "Fireship",
       "authorId": "Fireship",
       "videoThumbnails": [
         {
-          "url": "https://i.ytimg.com/vi/FMhScnY0dME/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA9bNl_eNcyRg3PFTD7M7ao5UtHXQ",
+          "url": "https://i.ytimg.com/vi/yOP5-3_WFus/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAbeAFneitLtgKbMnw_emZ6eChMaA",
           "width": 168,
           "height": 94
         },
         {
-          "url": "https://i.ytimg.com/vi/FMhScnY0dME/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBIsMO5ba9XlSMMMaE02qYZv646HQ",
+          "url": "https://i.ytimg.com/vi/yOP5-3_WFus/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBNAt-WXs3JuYU3nBacWQy-Bu23_A",
           "width": 196,
           "height": 110
         },
         {
-          "url": "https://i.ytimg.com/vi/FMhScnY0dME/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBpPododnu5d3EPT-rS1nWh7yYhMw",
+          "url": "https://i.ytimg.com/vi/yOP5-3_WFus/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAyOqygSJntEztlkDthIWM-CbqGAg",
           "width": 246,
           "height": 138
         },
         {
-          "url": "https://i.ytimg.com/vi/FMhScnY0dME/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA1cmZCJ-NN54sH5gJ-FIaYnqBx4A",
+          "url": "https://i.ytimg.com/vi/yOP5-3_WFus/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD4lRqgk8hAGXnG0FVUzToS8JQyzg",
           "width": 336,
           "height": 188
         }
       ],
-      "viewCountText": "11,650 views",
-      "viewCount": 11650,
-      "publishedText": "18 minutes ago",
-      "durationText": "3:15",
-      "lengthSeconds": 195,
+      "viewCountText": "4,648 views",
+      "viewCount": 4648,
+      "publishedText": "10 minutes ago",
+      "durationText": "8:14",
+      "lengthSeconds": 494,
       "liveNow": false,
       "premiere": false,
       "premium": false
