@@ -24,37 +24,37 @@
     },
     "Fireship": {
       "type": "video",
-      "title": "I tried 10 code editors",
-      "videoId": "8PhdfcX9tG0",
+      "title": "Carbon Lang… The C++ killer?",
+      "videoId": "-bHK0qmp06c",
       "author": "Fireship",
       "authorId": "Fireship",
       "videoThumbnails": [
         {
-          "url": "https://i.ytimg.com/vi/8PhdfcX9tG0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA1YFmV_2Eb2sVKe6VM3FwB95trdg",
+          "url": "https://i.ytimg.com/vi/-bHK0qmp06c/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDiH7jkbFHqWs-ZoWzHFNLMzcKWhQ",
           "width": 168,
           "height": 94
         },
         {
-          "url": "https://i.ytimg.com/vi/8PhdfcX9tG0/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB-pm3TIZ3o5WA3vNhFtgXhZA2ugA",
+          "url": "https://i.ytimg.com/vi/-bHK0qmp06c/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCAisEyW-EacFcJVyIlBc5B5fsTnw",
           "width": 196,
           "height": 110
         },
         {
-          "url": "https://i.ytimg.com/vi/8PhdfcX9tG0/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBmXB1NZgNZESOMBGd6inpiZZOtug",
+          "url": "https://i.ytimg.com/vi/-bHK0qmp06c/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDbknmJjeD9mvjfWIcNTNxjKWNB3Q",
           "width": 246,
           "height": 138
         },
         {
-          "url": "https://i.ytimg.com/vi/8PhdfcX9tG0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCFppWAmRZaaCCCRfDrVSAqbYKHfQ",
+          "url": "https://i.ytimg.com/vi/-bHK0qmp06c/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCt6yOsgBUdo_okMShRE_go1kUkxA",
           "width": 336,
           "height": 188
         }
       ],
-      "viewCountText": "9,845 views",
-      "viewCount": 9845,
-      "publishedText": "17 minutes ago",
-      "durationText": "10:28",
-      "lengthSeconds": 628,
+      "viewCountText": "No views",
+      "viewCount": null,
+      "publishedText": "17 seconds ago",
+      "durationText": "3:27",
+      "lengthSeconds": 207,
       "liveNow": false,
       "premiere": false,
       "premium": false
