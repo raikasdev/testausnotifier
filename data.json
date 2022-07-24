@@ -98,38 +98,37 @@
     },
     "UCc4IizbM0q_JySK3XUY0Drw": {
       "type": "video",
-      "title": "MORE Programming Youtubers",
-      "videoId": "k_2_hexWpxo",
+      "title": "GAME ENGINES: A Dive-In",
+      "videoId": "cqZZXLIB5DM",
       "author": "zyapguy",
       "authorId": "UCc4IizbM0q_JySK3XUY0Drw",
       "videoThumbnails": [
         {
-          "url": "https://i.ytimg.com/vi/k_2_hexWpxo/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAkQBDDSRT6jT7yBAzKuD18QezKWA",
+          "url": "https://i.ytimg.com/vi/cqZZXLIB5DM/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBVp6c-t1EY4KABMf0LgTqRypExZQ",
           "width": 168,
           "height": 94
         },
         {
-          "url": "https://i.ytimg.com/vi/k_2_hexWpxo/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAf-K2WvZ1SA3Mwjc0iWZVqoK3EsQ",
+          "url": "https://i.ytimg.com/vi/cqZZXLIB5DM/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBCbKVtLBYVyJj4WK_nrrE1SMCicA",
           "width": 196,
           "height": 110
         },
         {
-          "url": "https://i.ytimg.com/vi/k_2_hexWpxo/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBteC9_QkkQNj5tOzd-ppTaxVbx3A",
+          "url": "https://i.ytimg.com/vi/cqZZXLIB5DM/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCUKmakR0PGdN0QB3BP0bweqdQLww",
           "width": 246,
           "height": 138
         },
         {
-          "url": "https://i.ytimg.com/vi/k_2_hexWpxo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBOyH_JHqrfA5RmvCQcfXCV86WYfA",
+          "url": "https://i.ytimg.com/vi/cqZZXLIB5DM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBN6cjB4ATtU0AAd2XQX69VAifJ4Q",
           "width": 336,
           "height": 188
         }
       ],
-      "viewCountText": "485 views",
-      "viewCount": 485,
-      "publishedText": "31 minutes ago",
-      "durationText": "5:45",
-      "lengthSeconds": 345,
-      "liveNow": false,
+      "viewCountText": "3 waiting",
+      "viewCount": 3,
+      "publishedText": "Live",
+      "lengthSeconds": 0,
+      "liveNow": true,
       "premiere": false,
       "premium": false
     },
