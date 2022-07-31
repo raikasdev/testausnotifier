@@ -113,37 +113,38 @@
     },
     "UCc4IizbM0q_JySK3XUY0Drw": {
       "type": "video",
-      "title": "GAME ENGINES: A Dive-In",
-      "videoId": "cqZZXLIB5DM",
+      "title": "Why Do People HATE JavaScript?",
+      "videoId": "tnSxP75Q_fw",
       "author": "zyapguy",
       "authorId": "UCc4IizbM0q_JySK3XUY0Drw",
       "videoThumbnails": [
         {
-          "url": "https://i.ytimg.com/vi/cqZZXLIB5DM/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBVp6c-t1EY4KABMf0LgTqRypExZQ",
+          "url": "https://i.ytimg.com/vi/tnSxP75Q_fw/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAg6cl-s6Bd4iOdH_MNSIcZWQToJQ",
           "width": 168,
           "height": 94
         },
         {
-          "url": "https://i.ytimg.com/vi/cqZZXLIB5DM/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBCbKVtLBYVyJj4WK_nrrE1SMCicA",
+          "url": "https://i.ytimg.com/vi/tnSxP75Q_fw/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCxAI8s_UEj6Zfpk9Qzrtgn4LsqiQ",
           "width": 196,
           "height": 110
         },
         {
-          "url": "https://i.ytimg.com/vi/cqZZXLIB5DM/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCUKmakR0PGdN0QB3BP0bweqdQLww",
+          "url": "https://i.ytimg.com/vi/tnSxP75Q_fw/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDIIAOuYVag17URXSr-WTAPqWmWsQ",
           "width": 246,
           "height": 138
         },
         {
-          "url": "https://i.ytimg.com/vi/cqZZXLIB5DM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBN6cjB4ATtU0AAd2XQX69VAifJ4Q",
+          "url": "https://i.ytimg.com/vi/tnSxP75Q_fw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC994tZLTT7sO3dbM5PA1QGRAmllw",
           "width": 336,
           "height": 188
         }
       ],
-      "viewCountText": "3 waiting",
-      "viewCount": 3,
-      "publishedText": "Live",
-      "lengthSeconds": 0,
-      "liveNow": true,
+      "viewCountText": "204 views",
+      "viewCount": 204,
+      "publishedText": "18 minutes ago",
+      "durationText": "7:13",
+      "lengthSeconds": 433,
+      "liveNow": false,
       "premiere": false,
       "premium": false
     },
