@@ -2,37 +2,22 @@
   "youtube": {
     "UC-8QAzbLcRglXeN_MY9blyw": {
       "type": "video",
-      "title": "Coding an Auction House",
-      "videoId": "mSSW8Kz1rVs",
+      "title": "Do you copy paste your code?",
+      "videoId": "SpGZ5Q906ZM",
       "author": "Ben Awad",
       "authorId": "UC-8QAzbLcRglXeN_MY9blyw",
       "videoThumbnails": [
         {
-          "url": "https://i.ytimg.com/vi/mSSW8Kz1rVs/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDnJ1SDERhh0ReuIw2AVjdYyoSd2A",
-          "width": 168,
-          "height": 94
-        },
-        {
-          "url": "https://i.ytimg.com/vi/mSSW8Kz1rVs/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAqFmJ8P0RK9PPuD_455az4ileH4A",
-          "width": 196,
-          "height": 110
-        },
-        {
-          "url": "https://i.ytimg.com/vi/mSSW8Kz1rVs/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBiPhsZo_F1NWywTKu0UUCRBTIGKA",
-          "width": 246,
-          "height": 138
-        },
-        {
-          "url": "https://i.ytimg.com/vi/mSSW8Kz1rVs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD-1nrxdA4iMQH7bTe-ELmdY5-09A",
-          "width": 336,
-          "height": 188
+          "url": "https://i.ytimg.com/vi/SpGZ5Q906ZM/hq720_2.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLC1Pq55PPuWEs48_115s2q9NARFZw",
+          "width": 405,
+          "height": 720
         }
       ],
-      "viewCountText": "2,773 views",
-      "viewCount": 2773,
-      "publishedText": "26 minutes ago",
-      "durationText": "5:32",
-      "lengthSeconds": 332,
+      "viewCountText": "1,273 views",
+      "viewCount": 1273,
+      "publishedText": "17 minutes ago",
+      "durationText": "SHORTS",
+      "lengthSeconds": 0,
       "liveNow": false,
       "premiere": false,
       "premium": false
