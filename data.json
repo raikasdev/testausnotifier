@@ -39,37 +39,37 @@
     },
     "Fireship": {
       "type": "video",
-      "title": "TensorFlow in 100 Seconds",
-      "videoId": "i8NETqtGHms",
+      "title": "Hugo in 100 Seconds",
+      "videoId": "0RKpf3rK57I",
       "author": "Fireship",
       "authorId": "Fireship",
       "videoThumbnails": [
         {
-          "url": "https://i.ytimg.com/vi/i8NETqtGHms/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCmlzY98icub5jTkEZa919KuaffoA",
+          "url": "https://i.ytimg.com/vi/0RKpf3rK57I/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCgrX0NridN6FACNV5Pvq_EEHzxng",
           "width": 168,
           "height": 94
         },
         {
-          "url": "https://i.ytimg.com/vi/i8NETqtGHms/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAurTE2_4NIi4yY-cBSxFAbNHB-Xg",
+          "url": "https://i.ytimg.com/vi/0RKpf3rK57I/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA19xL6ZHQL_ruU5on_A-UtyDx8DQ",
           "width": 196,
           "height": 110
         },
         {
-          "url": "https://i.ytimg.com/vi/i8NETqtGHms/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCSL2vbTlxZtaccnAA5ys2CNCqQmQ",
+          "url": "https://i.ytimg.com/vi/0RKpf3rK57I/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBl6mbjxoLR6a-pLgI0piMQ3a36Tw",
           "width": 246,
           "height": 138
         },
         {
-          "url": "https://i.ytimg.com/vi/i8NETqtGHms/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAlAzqYHFyAMnHDECqT-8suyMoOxA",
+          "url": "https://i.ytimg.com/vi/0RKpf3rK57I/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCmH-7PhkbT8ztw-83XNmMVRfwJUg",
           "width": 336,
           "height": 188
         }
       ],
-      "viewCountText": "6,113 views",
-      "viewCount": 6113,
-      "publishedText": "12 minutes ago",
-      "durationText": "2:39",
-      "lengthSeconds": 159,
+      "viewCountText": "No views",
+      "viewCount": null,
+      "publishedText": "35 seconds ago",
+      "durationText": "2:33",
+      "lengthSeconds": 153,
       "liveNow": false,
       "premiere": false,
       "premium": false
