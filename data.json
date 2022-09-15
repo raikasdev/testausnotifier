@@ -24,37 +24,37 @@
     },
     "Fireship": {
       "type": "video",
-      "title": "PocketBase... The Ultimate Side-Hustle Backend?",
-      "videoId": "Wqy3PBEglXQ",
+      "title": "SurrealDB in 100 Seconds",
+      "videoId": "C7WFwgDRStM",
       "author": "Fireship",
       "authorId": "Fireship",
       "videoThumbnails": [
         {
-          "url": "https://i.ytimg.com/vi/Wqy3PBEglXQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAkMOCu2S10tUGzbzpTAmcWuXnJJQ",
+          "url": "https://i.ytimg.com/vi/C7WFwgDRStM/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBMMobxHpui30cwkZ6CnLavlLsAfQ",
           "width": 168,
           "height": 94
         },
         {
-          "url": "https://i.ytimg.com/vi/Wqy3PBEglXQ/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA_Ojd1Z6H81SzbEJfAHz7fg3oCgw",
+          "url": "https://i.ytimg.com/vi/C7WFwgDRStM/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLASQRjB_WTplObopAFW5dX12JydzA",
           "width": 196,
           "height": 110
         },
         {
-          "url": "https://i.ytimg.com/vi/Wqy3PBEglXQ/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBERvePYnhZzGBrn9HmxLOBlh-mpw",
+          "url": "https://i.ytimg.com/vi/C7WFwgDRStM/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBt0Ses5LgGxkUbGDdhqrJALxs-mg",
           "width": 246,
           "height": 138
         },
         {
-          "url": "https://i.ytimg.com/vi/Wqy3PBEglXQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCAKdQwmmavQiZUze9-w1KGNNO5-w",
+          "url": "https://i.ytimg.com/vi/C7WFwgDRStM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDSdL19aNjVIHSu7lzKr9-M10DVQw",
           "width": 336,
           "height": 188
         }
       ],
-      "viewCountText": "10,758 views",
-      "viewCount": 10758,
-      "publishedText": "19 minutes ago",
-      "durationText": "3:31",
-      "lengthSeconds": 211,
+      "viewCountText": "7,880 views",
+      "viewCount": 7880,
+      "publishedText": "16 minutes ago",
+      "durationText": "2:47",
+      "lengthSeconds": 167,
       "liveNow": false,
       "premiere": false,
       "premium": false
