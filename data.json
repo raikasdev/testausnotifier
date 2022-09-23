@@ -24,37 +24,37 @@
     },
     "Fireship": {
       "type": "video",
-      "title": "Qwik… the world's first O(1) JavaScript framework?",
-      "videoId": "x2eF3YLiNhY",
+      "title": "Laravel in 100 Seconds",
+      "videoId": "rIfdg_Ot-LI",
       "author": "Fireship",
       "authorId": "Fireship",
       "videoThumbnails": [
         {
-          "url": "https://i.ytimg.com/vi/x2eF3YLiNhY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD0KMQ9TS2mHPeS0YXDwzXpGcH7cg",
+          "url": "https://i.ytimg.com/vi/rIfdg_Ot-LI/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLApqKW1gVsbiZbx3JHcxbaH14TFTQ",
           "width": 168,
           "height": 94
         },
         {
-          "url": "https://i.ytimg.com/vi/x2eF3YLiNhY/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAQ2Y4JKNDLccH9Or2pGL6w3iJWZw",
+          "url": "https://i.ytimg.com/vi/rIfdg_Ot-LI/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB7KaPLiqkvx-d24Kzs8wR8K6gCAw",
           "width": 196,
           "height": 110
         },
         {
-          "url": "https://i.ytimg.com/vi/x2eF3YLiNhY/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD-ftEa5LXhVkfS-jliwBgZLFbKQA",
+          "url": "https://i.ytimg.com/vi/rIfdg_Ot-LI/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCbS7MGWbsV0kuMPr4I6bwywXgqVg",
           "width": 246,
           "height": 138
         },
         {
-          "url": "https://i.ytimg.com/vi/x2eF3YLiNhY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD-syMlJp44j1pjfAEGTP-Kx5R_RA",
+          "url": "https://i.ytimg.com/vi/rIfdg_Ot-LI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCW0WgAqKt0E1yrzZa_xwzSa6ELfQ",
           "width": 336,
           "height": 188
         }
       ],
-      "viewCountText": "6,657 views",
-      "viewCount": 6657,
-      "publishedText": "11 minutes ago",
-      "durationText": "3:33",
-      "lengthSeconds": 213,
+      "viewCountText": "5,590 views",
+      "viewCount": 5590,
+      "publishedText": "12 minutes ago",
+      "durationText": "2:22",
+      "lengthSeconds": 142,
       "liveNow": false,
       "premiere": false,
       "premium": false
